@@ -1,8 +1,8 @@
 #page:has(#essay_page) {
     border: 0;
     box-shadow: none !important;
-    padding: 0 !important;
-    background: transparent !important;
+    padding: 5 !important;
+    /* background: transparent !important; */
   }
   #page:has(#essay_page) .page-title {
     display: none;
