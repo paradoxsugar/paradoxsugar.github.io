@@ -26,3 +26,4 @@ function switchNightMode() {
     typeof FB === 'object' && window.loadFBComment()
     window.DISQUS && document.getElementById('disqus_thread').children.length && setTimeout(() => window.disqusReset(), 200)
   }
+
