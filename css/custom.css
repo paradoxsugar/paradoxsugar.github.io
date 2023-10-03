@@ -94,8 +94,8 @@
   margin-right: auto;
 }
 
-/* PC菜单栏美化 */
-#nav .menus_items .menus_item .menus_item_child, #nav .menus_items .icat_menus_item .menus_item_child {
+PC菜单栏美化 */
+/* #nav .menus_items .menus_item .menus_item_child, #nav .menus_items .icat_menus_item .menus_item_child {
   margin-top: 10px;
   border: 1px solid var(--icat-secondbg);
 }

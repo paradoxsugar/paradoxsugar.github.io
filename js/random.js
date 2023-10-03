@@ -1,4 +1,4 @@
-function randomPost() {
+function random() {
     fetch('/sitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {
         let ls = data.querySelectorAll('url loc');
         let locationHref,locSplit;
