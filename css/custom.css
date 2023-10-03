@@ -22,6 +22,46 @@
   }
 }
 
+/* 导航栏居中 */
+
+/* #nav-right{
+  flex:1 1 auto;
+  justify-content: flex-end;
+  margin-left: auto;
+  display: flex;
+  flex-wrap:nowrap;
+} */
+
+/* IPAD菜单栏调整 */
+/* #nav #menus {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  margin: 0;
+  transform: translateZ(0);
+}
+#nav #blog-info {
+  flex-wrap: nowrap;
+  display: flex;
+  align-items: center;
+  z-index: 102;
+  max-width: fit-content;
+}
+@media screen and (max-width: 900px) {
+  #nav {
+      padding: 0 15px;
+  }
+  #nav-group {
+      padding: 0 0.2rem;
+  }
+  #rightside {
+      right: -42px;
+  }
+} */
+
+
 
 /* 页脚透明 */
 #footer{
@@ -92,69 +132,6 @@
   --anzhiyu-black-acrylic2: #08080a !important;
   --anzhiyu-black-acrylic1: #0b0b0e !important;
   --anzhiyu-main-none: #b8b8b800 !important;
-}
-
-[data-theme="light"] {
-  --anzhiyu-theme: #3b70fc;
-  --anzhiyu-theme-deep: #1856fb;
-  --anzhiyu-theme-op: #4259ef23;
-  --anzhiyu-blue: #3b70fc;
-  --anzhiyu-red: #d8213c;
-  --anzhiyu-pink: #ff7c7c;
-  --anzhiyu-green: #57bd6a;
-  --anzhiyu-fontcolor: #363636;
-  --anzhiyu-background: #f7f9fe;
-  --anzhiyu-reverse: #000;
-  --anzhiyu-maskbg: rgba(255, 255, 255, 0.6);
-  --anzhiyu-maskbgdeep: rgba(255, 255, 255, 0.85);
-  --anzhiyu-hovertext: var(--anzhiyu-theme);
-  --anzhiyu-ahoverbg: #f7f7fa;
-  --anzhiyu-lighttext: var(--anzhiyu-main);
-  --anzhiyu-secondtext: rgba(60, 60, 67, 0.6);
-  --anzhiyu-scrollbar: rgba(60, 60, 67, 0.4);
-  --anzhiyu-card-btn-bg: #edf0f7;
-  --anzhiyu-post-blockquote-bg: #fafcff;
-  --anzhiyu-post-tabs-bg: #f2f5f8;
-  --anzhiyu-secondbg: #f1f3f8;
-  --anzhiyu-shadow-nav: 0 5px 12px -5px rgba(102, 68, 68, 0.05);
-  --anzhiyu-card-bg: #fff;
-  --anzhiyu-shadow-lightblack: 0 5px 12px -5px rgba(102, 68, 68, 0);
-  --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
-  --anzhiyu-card-border: #e3e8f7;
-}
-
-[data-theme="dark"] {
-  --global-bg: #191919;
-  --anzhiyu-theme: #0084ff;
-  --anzhiyu-theme-deep: #0076e5;
-  --anzhiyu-theme-op: #0084ff23;
-  --anzhiyu-blue: #0084ff;
-  --anzhiyu-red: #ff3842;
-  --anzhiyu-pink: #ff7c7c;
-  --anzhiyu-green: #57bd6a;
-  --anzhiyu-fontcolor: #f7f7fa;
-  --anzhiyu-background: #18171d;
-  --anzhiyu-reverse: #fff;
-  --anzhiyu-maskbg: rgba(0, 0, 0, 0.6);
-  --anzhiyu-maskbgdeep: rgba(0, 0, 0, 0.85);
-  --anzhiyu-hovertext: #0a84ff;
-  --anzhiyu-ahoverbg: #fff;
-  --anzhiyu-lighttext: #f2b94b;
-  --anzhiyu-secondtext: #a1a2b8;
-  --anzhiyu-scrollbar: rgba(200, 200, 223, 0.4);
-  --anzhiyu-card-btn-bg: #30343f;
-  --anzhiyu-post-blockquote-bg: #000;
-  --anzhiyu-post-tabs-bg: #121212;
-  --anzhiyu-secondbg: #30343f;
-  --anzhiyu-shadow-nav: 0 5px 20px 0px rgba(28, 28, 28, 0.4);
-  --anzhiyu-card-bg: #1d1b26;
-  --anzhiyu-shadow-lightblack: 0 5px 12px -5px rgba(102, 68, 68, 0);
-  --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
-  --anzhiyu-card-border: #42444a;
-}
-  
-
-:root {
   --icat-white: #fff;
   --icat-white-op: rgba(255, 255, 255, 0.2);
   --icat-black: #000;
@@ -220,7 +197,33 @@
   --style-border-forever: 2px solid var(--icat-main);
 }
 
-[data-theme=light] {
+[data-theme="light"] {
+  --anzhiyu-theme: #3b70fc;
+  --anzhiyu-theme-deep: #1856fb;
+  --anzhiyu-theme-op: #4259ef23;
+  --anzhiyu-blue: #3b70fc;
+  --anzhiyu-red: #d8213c;
+  --anzhiyu-pink: #ff7c7c;
+  --anzhiyu-green: #57bd6a;
+  --anzhiyu-fontcolor: #363636;
+  --anzhiyu-background: #f7f9fe;
+  --anzhiyu-reverse: #000;
+  --anzhiyu-maskbg: rgba(255, 255, 255, 0.6);
+  --anzhiyu-maskbgdeep: rgba(255, 255, 255, 0.85);
+  --anzhiyu-hovertext: var(--anzhiyu-theme);
+  --anzhiyu-ahoverbg: #f7f7fa;
+  --anzhiyu-lighttext: var(--anzhiyu-main);
+  --anzhiyu-secondtext: rgba(60, 60, 67, 0.6);
+  --anzhiyu-scrollbar: rgba(60, 60, 67, 0.4);
+  --anzhiyu-card-btn-bg: #edf0f7;
+  --anzhiyu-post-blockquote-bg: #fafcff;
+  --anzhiyu-post-tabs-bg: #f2f5f8;
+  --anzhiyu-secondbg: #f1f3f8;
+  --anzhiyu-shadow-nav: 0 5px 12px -5px rgba(102, 68, 68, 0.05);
+  --anzhiyu-card-bg: #fff;
+  --anzhiyu-shadow-lightblack: 0 5px 12px -5px rgba(102, 68, 68, 0);
+  --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
+  --anzhiyu-card-border: #e3e8f7;
   --icat-theme: #425AEF;
   --icat-theme-op: #4259ef23;
   --icat-theme-op-deep: #4259efdd;
@@ -264,7 +267,34 @@
   --style-border-forever: 2px solid var(--icat-main);
 }
 
-[data-theme=dark] {
+[data-theme="dark"] {
+  --global-bg: #191919;
+  --anzhiyu-theme: #0084ff;
+  --anzhiyu-theme-deep: #0076e5;
+  --anzhiyu-theme-op: #0084ff23;
+  --anzhiyu-blue: #0084ff;
+  --anzhiyu-red: #ff3842;
+  --anzhiyu-pink: #ff7c7c;
+  --anzhiyu-green: #57bd6a;
+  --anzhiyu-fontcolor: #f7f7fa;
+  --anzhiyu-background: #18171d;
+  --anzhiyu-reverse: #fff;
+  --anzhiyu-maskbg: rgba(0, 0, 0, 0.6);
+  --anzhiyu-maskbgdeep: rgba(0, 0, 0, 0.85);
+  --anzhiyu-hovertext: #0a84ff;
+  --anzhiyu-ahoverbg: #fff;
+  --anzhiyu-lighttext: #f2b94b;
+  --anzhiyu-secondtext: #a1a2b8;
+  --anzhiyu-scrollbar: rgba(200, 200, 223, 0.4);
+  --anzhiyu-card-btn-bg: #30343f;
+  --anzhiyu-post-blockquote-bg: #000;
+  --anzhiyu-post-tabs-bg: #121212;
+  --anzhiyu-secondbg: #30343f;
+  --anzhiyu-shadow-nav: 0 5px 20px 0px rgba(28, 28, 28, 0.4);
+  --anzhiyu-card-bg: #1d1b26;
+  --anzhiyu-shadow-lightblack: 0 5px 12px -5px rgba(102, 68, 68, 0);
+  --anzhiyu-shadow-light2black: 0 5px 12px -5px rgba(102, 68, 68, 0);
+  --anzhiyu-card-border: #42444a;
   --icat-theme: #f2b94b;
   --icat-theme-op: #f2b94b23;
   --icat-theme-op-deep: #f2b94bdd;
@@ -307,7 +337,7 @@
   --style-border-dashed: 1px dashed var(--icat-theme-op);
   --style-border-forever: 2px solid var(--icat-lighttext);
 }
-
+  
 
 
 /* 鼠标样式 */
@@ -384,5 +414,3 @@ button {
   }
 }
 /* 主页文章列表图片宽度 */
-
-
