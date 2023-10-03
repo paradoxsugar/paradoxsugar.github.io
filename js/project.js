@@ -1,7 +1,7 @@
 
 todolist();
 function todolist() {
-    fetch('https://selfmemos.zeabur.app//api/v1/memo?creatorId=SilverBullet&tag=清单').then(res => res.json()).then(data => {
+    fetch('https://selfmemos.zeabur.app/api/v1/memo?creatorId=SilverBullet&tag=清单').then(res => res.json()).then(data => {
         // 获取并处理数据
         data.forEach(item => {
             // 处理数据
