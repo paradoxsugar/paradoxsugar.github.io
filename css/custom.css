@@ -98,7 +98,7 @@ PC菜单栏美化 */
 /* #nav .menus_items .menus_item .menus_item_child, #nav .menus_items .icat_menus_item .menus_item_child {
   margin-top: 10px;
   border: 1px solid var(--icat-secondbg);
-}
+} */
 #nav .menus_items .menus_item .menus_item_child li a, #nav .menus_items .icat_menus_item .menus_item_child li a {
   padding: 8px 34px;
   text-align: center;
