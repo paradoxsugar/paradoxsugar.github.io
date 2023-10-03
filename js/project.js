@@ -1,3 +1,18 @@
+
+const { createProxyMiddleware } = require('http-proxy-middleware')
+
+module.exports = function (app) {
+  app.use(
+    'api',
+    createProxyMiddleware({
+      target: 'https://selfmemos.zeabur.app',
+      changeOrigin: true
+    })
+  )
+}
+
+
+
 todolist();
 function todolist() {
     fetch('https://selfmemos.zeabur.app//api/v1/memo?creatorId=SilverBullet&tag=清单').then(res => res.json()).then(data => {
@@ -19,3 +34,4 @@ function todolist() {
 }
 
 // 清单函数
+
