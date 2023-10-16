@@ -6252,7 +6252,7 @@ blockquote.pullquote.right {
   flex-direction: column;
   justify-content: center;
   color: var(--anzhiyu-white);
-  background: url(https://pic1.zhimg.com/80/v2-5e64a2888dcdf32ec009ce834383e54c_1440w.webp?source=1940ef5c) no-repeat top;
+  background: url(/img/about1.jpg) no-repeat top;
   background-size: 200%;
   animation: gradient 15s ease infinite;
   width: 59%;
@@ -6261,7 +6261,7 @@ blockquote.pullquote.right {
 .author-content-item {
   width: 49%;
   border-radius: 24px;
-  background: url(https://pica.zhimg.com/80/v2-d9f41bc31aa52513b1e8a7af6d9ecd16_1440w.webp?source=1940ef5c) no-repeat top;
+  background: url(/img/about0.jpg) no-repeat top;
   border: var(--style-border-always);
   box-shadow: var(--anzhiyu-shadow-border);
   position: relative;
@@ -6354,7 +6354,7 @@ blockquote.pullquote.right {
 #about-page .about-statistic {
   min-height: 380px;
   width: 39%;
-  background: url(https://www.2008php.com/2019_Website_appreciate/2019-02-20/20190220212706yL25hyL25h.jpg) no-repeat top;
+  background: url(/img/about2.jpg) no-repeat top;
   background-size: cover;
   color: var(--anzhiyu-white);
   overflow: hidden;
@@ -6778,7 +6778,7 @@ blockquote.pullquote.right {
   flex-direction: column;
   justify-content: center;
   width: 39%;
-  background: url(https://blog.haiya360.com/usr/uploads/2020/07/1689695513.gif) no-repeat top;
+  background: url(/img/about.gif) no-repeat top;
   /* animation: gradient 15s ease infinite; */
 }
 .author-content-item .author-content-item-tips {
@@ -6826,7 +6826,7 @@ blockquote.pullquote.right {
   transition: 2s ease-in-out;
 }
 .author-content-item.game-yuanshen {
-  background: url(https://game.gtimg.cn/images/cr/web2023/card-all.png) no-repeat top;
+  background: url(/img/about3.jpg) no-repeat top;
   background-size: cover;
   min-height: 240px;
   overflow: hidden;
@@ -6842,18 +6842,18 @@ blockquote.pullquote.right {
   /* width: 59%; */
 }
 .author-content-item.selfInfo {
-  background: url(https://picx.zhimg.com/80/v2-bb533ee8198028faf153bfb4f53ee79c_1440w.webp?source=1940ef5c) no-repeat top;
+  background: url(/img/about4.jpg) no-repeat top;
   display: flex;
   flex-direction: column;
   justify-content: center;
   animation: gradient 15s ease infinite;
 }
 .author-content-item.skills {
-  background: url(https://pic1.zhimg.com/80/v2-908b61a41ec4bebe17a04468dcf5d834_1440w.webp?source=1940ef5c) no-repeat top;
+  background: url(/img/about5.jpg) no-repeat top;
   animation: gradient 15s ease infinite;
 }
 .author-content-item.careers {
-  background: url(https://picx.zhimg.com/80/v2-5c87d13e5c78e6984058612571395141_1440w.webp?source=1940ef5c) no-repeat top;
+  background: url(/img/about6.jpg) no-repeat top;
   
 }
 
@@ -6874,9 +6874,6 @@ blockquote.pullquote.right {
   height: 18px;
   margin-right: 0.5rem;
 }
-.icon-pos-mid {
-  background: url(https://img02.anzhiy.cn/adminuploads/1/2022/09/25/632fb9cecfc8c.png);
-}
 .author-content-item.game-yuanshen::after {
   box-shadow: 0 -69px 203px 11px #575d8b inset;
   position: absolute;
@@ -6889,7 +6886,7 @@ blockquote.pullquote.right {
 
 .author-content-item.comic-content {
   width: 39%;
-  background: url(https://pic1.zhimg.com/v2-8a5246cdfe317bd0c1cdcdccdcb25486_r.jpg?source=1940ef5c) no-repeat top;
+  background: url(/img/about7.jpg) no-repeat top;
   background-size: cover;
   min-height: 300px;
   overflow: hidden;
@@ -6906,14 +6903,14 @@ blockquote.pullquote.right {
 }
 
 .author-content-item.like-technology {
-  background: url(http://mms1.baidu.com/it/u=781290123,2170070454&fm=253&app=120&f=JPEG&fmt=auto&q=75?w=800&h=500) no-repeat;
+  background: url(/img/about8.jpg) no-repeat;
   background-size: cover;
   min-height: 230px;
   color: var(--anzhiyu-white);
 }
 
 .author-content-item.like-music {
-  background: url(https://ts1.cn.mm.bing.net/th/id/R-C.125430396eeccd84bde5e8d54a0f0db1?rik=WlZeVxr9GDkkSw&riu=http%3a%2f%2farticleimg.xbiao.com%2f2019%2f1207%2f1575697138722154.jpg&ehk=QZQILSjv5q0HuEwWwsE1ErF94jww4ysBtTh8Wkz3WIw%3d&risl=&pid=ImgRaw&r=0) no-repeat top;
+  background: url(/img/about9.jpg) no-repeat top;
   background-size: cover;
   min-height: 400px;
   color: var(--anzhiyu-white);
