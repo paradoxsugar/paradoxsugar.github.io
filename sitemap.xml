@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ljcgo.com/posts/16107/</loc>
+    <loc>http://ljcgo.com/posts/23919/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
@@ -12,6 +12,15 @@
   
   <url>
     <loc>http://ljcgo.com/posts/2/</loc>
+    
+    <lastmod>2023-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ljcgo.com/posts/16107/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
@@ -83,15 +92,6 @@
   </url>
   
   <url>
-    <loc>http://ljcgo.com/posts/23919/</loc>
-    
-    <lastmod>2023-07-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ljcgo.com/categories/index.html</loc>
     
     <lastmod>2023-04-11</lastmod>
@@ -142,14 +142,14 @@
   </url>
   
   <url>
-    <loc>http://ljcgo.com/tags/%E6%9D%82%E8%AE%B0/</loc>
+    <loc>http://ljcgo.com/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://ljcgo.com/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>http://ljcgo.com/tags/%E6%9D%82%E8%AE%B0/</loc>
     <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
