@@ -2,7 +2,7 @@ var percentFlag = false; // 节流阀
 function essayScroll() {
   let a = document.documentElement.scrollTop || window.pageYOffset; // 卷去高度
   const waterfallResult = a % document.documentElement.clientHeight; // 卷去一个视口
-  result <= 99 || (result = 99);
+  waterfallResult <= 99 || (waterfallResult = 99);
 
   if (
     !percentFlag &&
@@ -23,12 +23,14 @@ function essayScroll() {
 
   let p = document.getElementById("post-comment") || document.getElementById("footer");
 
-  (p.offsetTop + p.offsetHeight / 2 < r || 90 < result) && (percentFlag = true);
+  (p.offsetTop + p.offsetHeight / 2 < r || 90 < waterfallResult) && (percentFlag = true);
 }
+
 function replaceAll(e, n, t) {
   return e.split(n).join(t);
 }
-var anzhiyu = {
+
+var icatessay = {
   diffDate: function (d, more = false) {
     const dateNow = new Date();
     const datePost = new Date(d);
@@ -39,6 +41,13 @@ var anzhiyu = {
     const month = day * 30;
 
     let result;
+    
+    // Check if the suffix object and required properties exist
+    const suffix = GLOBAL_CONFIG.date_suffix || {};
+    const daySuffix = suffix.day || '天前';
+    const hourSuffix = suffix.hour || '小时前';
+    const minSuffix = suffix.hour || '分钟前';
+
     if (more) {
       const monthCount = dateDiff / month;
       const dayCount = dateDiff / day;
@@ -48,25 +57,26 @@ var anzhiyu = {
       if (monthCount >= 1) {
         result = datePost.toLocaleDateString().replace(/\//g, "-");
       } else if (dayCount >= 1) {
-        result = parseInt(dayCount) + " " + GLOBAL_CONFIG.date_suffix.day;
+        result = parseInt(dayCount) + " " + daySuffix;
       } else if (hourCount >= 1) {
-        result = parseInt(hourCount) + " " + GLOBAL_CONFIG.date_suffix.hour;
+        result = parseInt(hourCount) + " " + hourSuffix;
       } else if (minuteCount >= 1) {
-        result = parseInt(minuteCount) + " " + GLOBAL_CONFIG.date_suffix.min;
+        result = parseInt(minuteCount) + " " + minSuffix;
       } else {
-        result = GLOBAL_CONFIG.date_suffix.just;
+        result = suffix.just;
       }
     } else {
       result = parseInt(dateDiff / day);
     }
     return result;
   },
+  
   changeTimeInEssay: function () {
-    document.querySelector("#bber") &&
-      document.querySelectorAll("#bber time").forEach(function (e) {
+    document.querySelector("#icat-bber") &&
+      document.querySelectorAll("#icat-bber time").forEach(function (e) {
         var t = e,
           datetime = t.getAttribute("datetime");
-        (t.innerText = anzhiyu.diffDate(datetime, true)), (t.style.display = "inline");
+        (t.innerText = icatessay.diffDate(datetime, true)), (t.style.display = "inline");
       });
   },
   reflashEssayWaterFall: function () {
@@ -92,8 +102,6 @@ var anzhiyu = {
   },
 };
 
-anzhiyu.changeTimeInEssay();
-anzhiyu.reflashEssayWaterFall();
-
-
-
+icatessay.changeTimeInEssay();
+icatessay.reflashEssayWaterFall();
+// 即刻短文处理逻辑

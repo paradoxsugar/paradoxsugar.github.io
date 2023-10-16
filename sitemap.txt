@@ -1,4 +1,8 @@
+http://ljcgo.com/gallery/index.html
 http://ljcgo.com/project/index.html
+http://ljcgo.com/essay/index.html
+http://ljcgo.com/monument/index.html
+http://ljcgo.com/test/index.html
 http://ljcgo.com/about/index.html
 http://ljcgo.com/posts/45804/
 http://ljcgo.com/posts/23919/
@@ -14,8 +18,6 @@ http://ljcgo.com/posts/2/
 http://ljcgo.com/posts/16107/
 http://ljcgo.com/tags/index.html
 http://ljcgo.com/comments/index.html
-http://ljcgo.com/gallery/index.html
-http://ljcgo.com/essay/index.html
 http://ljcgo.com/gallery/bizhi/index.html
 http://ljcgo.com/
 http://ljcgo.com/tags/%E7%AC%94%E8%AE%B0/

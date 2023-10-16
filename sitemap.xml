@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ljcgo.com/gallery/index.html</loc>
+    
+    <lastmod>2023-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ljcgo.com/project/index.html</loc>
+    
+    <lastmod>2023-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ljcgo.com/essay/index.html</loc>
+    
+    <lastmod>2023-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ljcgo.com/monument/index.html</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ljcgo.com/test/index.html</loc>
     
     <lastmod>2023-10-03</lastmod>
     
@@ -146,24 +182,6 @@
   </url>
   
   <url>
-    <loc>http://ljcgo.com/gallery/index.html</loc>
-    
-    <lastmod>2023-03-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ljcgo.com/essay/index.html</loc>
-    
-    <lastmod>2023-03-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ljcgo.com/gallery/bizhi/index.html</loc>
     
     <lastmod>2023-03-25</lastmod>
@@ -175,7 +193,7 @@
 
   <url>
     <loc>http://ljcgo.com/</loc>
-    <lastmod>2023-10-03</lastmod>
+    <lastmod>2023-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -183,28 +201,28 @@
   
   <url>
     <loc>http://ljcgo.com/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-10-03</lastmod>
+    <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://ljcgo.com/tags/%E6%9C%AC%E7%A7%91/</loc>
-    <lastmod>2023-10-03</lastmod>
+    <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://ljcgo.com/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-10-03</lastmod>
+    <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://ljcgo.com/tags/%E6%9D%82%E8%AE%B0/</loc>
-    <lastmod>2023-10-03</lastmod>
+    <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -213,21 +231,21 @@
   
   <url>
     <loc>http://ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2023-10-03</lastmod>
+    <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/AIC/</loc>
-    <lastmod>2023-10-03</lastmod>
+    <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://ljcgo.com/categories/%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2023-10-03</lastmod>
+    <lastmod>2023-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
