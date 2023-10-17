@@ -17,5 +17,5 @@ http://ljcgo.com/tags/%E6%9C%AC%E7%A7%91/
 http://ljcgo.com/tags/%E7%94%9F%E6%B4%BB/
 http://ljcgo.com/tags/%E6%9D%82%E8%AE%B0/
 http://ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/
-http://ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/AIC/
 http://ljcgo.com/categories/%E7%BD%91%E7%AB%99/
+http://ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/AIC/
