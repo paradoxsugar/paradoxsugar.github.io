@@ -466,8 +466,8 @@ button {
 #page:has(#icat_page) {
   border: 5;
   box-shadow: none !important;
-  padding: 0 !important;
-  background: transparent !important;
+  padding: 2 !important;
+  /* background: transparent !important; */
 }
 /* #web_bg ~ .page:has(#icat_page) {
   background: var(--card-bg);
