@@ -1,3 +1,5 @@
+http://ljcgo.com/img/pwa/manifest.json
+http://ljcgo.com/img/pwa/README.html
 http://ljcgo.com/posts/3331/
 http://ljcgo.com/gallery/index.html
 http://ljcgo.com/gallery/test/index.html

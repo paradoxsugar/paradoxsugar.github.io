@@ -245,6 +245,7 @@ PC菜单栏美化 */
 }
 
 [data-theme="light"] {
+  --ljc-boxbg: rgba(239, 237, 237, 0.7);
   --anzhiyu-theme: #3b70fc;
   --anzhiyu-theme-deep: #1856fb;
   --anzhiyu-theme-op: #4259ef23;
@@ -315,6 +316,7 @@ PC菜单栏美化 */
 }
 
 [data-theme="dark"] {
+  --ljc-boxbg: rgba(36, 35, 35, 0.7);
   --global-bg: #191919;
   --anzhiyu-theme: #0084ff;
   --anzhiyu-theme-deep: #0076e5;
@@ -468,6 +470,8 @@ button {
   box-shadow: none !important;
   padding: 2 !important;
   /* background: transparent !important; */
+  /* background: rgba(103, 110, 116, 0.5) !important; */
+  background:  var(--ljc-boxbg);
 }
 /* #web_bg ~ .page:has(#icat_page) {
   background: var(--card-bg);
