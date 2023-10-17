@@ -221,7 +221,7 @@ PC菜单栏美化 */
   --icat-hovertext: var(--icat-main);
   --icat-ahoverbg: #F7F7FA;
   --icat-lighttext: var(--icat-main);
-  --icat-secondtext: rgba(60, 60, 67, 0.8);
+  --icat-secondtext: rgba(46, 46, 221, 0.8);
   --icat-scrollbar: rgba(60, 60, 67, 0.4);
   --icat-card-btn-bg: #edf0f7;
   --icat-post-blockquote-bg: #fafcff;
@@ -260,7 +260,7 @@ PC菜单栏美化 */
   --anzhiyu-hovertext: var(--anzhiyu-theme);
   --anzhiyu-ahoverbg: #f7f7fa;
   --anzhiyu-lighttext: var(--anzhiyu-main);
-  --anzhiyu-secondtext: rgba(60, 60, 67, 0.6);
+  --anzhiyu-secondtext: #f7f7f7;
   --anzhiyu-scrollbar: rgba(60, 60, 67, 0.4);
   --anzhiyu-card-btn-bg: #edf0f7;
   --anzhiyu-post-blockquote-bg: #fafcff;
@@ -331,7 +331,7 @@ PC菜单栏美化 */
   --anzhiyu-hovertext: #0a84ff;
   --anzhiyu-ahoverbg: #fff;
   --anzhiyu-lighttext: #f2b94b;
-  --anzhiyu-secondtext: #a1a2b8;
+  --anzhiyu-secondtext: #ffffff;
   --anzhiyu-scrollbar: rgba(200, 200, 223, 0.4);
   --anzhiyu-card-btn-bg: #30343f;
   --anzhiyu-post-blockquote-bg: #000;
