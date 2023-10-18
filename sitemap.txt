@@ -1,10 +1,10 @@
 http://ljcgo.com/charts/index.html
 http://ljcgo.com/project/index.html
 http://ljcgo.com/monument/index.html
+http://ljcgo.com/tags/index.html
+http://ljcgo.com/categories/index.html
 http://ljcgo.com/gallery/index.html
 http://ljcgo.com/essay/index.html
-http://ljcgo.com/categories/index.html
-http://ljcgo.com/tags/index.html
 http://ljcgo.com/img/pwa/manifest.json
 http://ljcgo.com/img/pwa/README.html
 http://ljcgo.com/posts/3331/

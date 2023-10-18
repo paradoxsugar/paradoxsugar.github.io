@@ -94,17 +94,46 @@
   margin-right: auto;
 }
 
-PC菜单栏美化 */
-/* #nav .menus_items .menus_item .menus_item_child, #nav .menus_items .icat_menus_item .menus_item_child {
+/* PC菜单栏美化 */ 
+#nav .menus_items .menus_item .menus_item_child, #nav .menus_items .icat_menus_item .menus_item_child {
   margin-top: 10px;
   border: 1px solid var(--icat-secondbg);
-} */
-#nav .menus_items .menus_item .menus_item_child li a, #nav .menus_items .icat_menus_item .menus_item_child li a {
+}
+/* #nav .menus_items .menus_item .menus_item_child li a, #nav .menus_items .icat_menus_item .menus_item_child li a {
   padding: 8px 34px;
   text-align: center;
-}
+} */
 #travellings {
   padding: 0 14px 0 0;
+}
+
+/* IPAD菜单栏调整 */
+#nav #menus {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  margin: 0;
+  transform: translateZ(0);
+}
+#nav #blog-info {
+  flex-wrap: nowrap;
+  display: flex;
+  align-items: center;
+  z-index: 102;
+  max-width: fit-content;
+}
+@media screen and (max-width: 900px) {
+  #nav {
+      padding: 0 15px;
+  }
+  #nav-group {
+      padding: 0 0.2rem;
+  }
+  #rightside {
+      right: -42px;
+  }
 }
 
 
@@ -178,7 +207,6 @@ PC菜单栏美化 */
   --anzhiyu-white-acrylic2: #fcfdff !important;
   --anzhiyu-black-acrylic2: #08080a !important;
   --anzhiyu-black-acrylic1: #0b0b0e !important;
-  /* --anzhiyu-black-acrylic1: #000000 !important; */
   --anzhiyu-main-none: #b8b8b800 !important;
   --icat-white: #fff;
   --icat-white-op: rgba(255, 255, 255, 0.2);
@@ -246,6 +274,7 @@ PC菜单栏美化 */
 }
 
 [data-theme="light"] {
+  --ljc-charts: #000000;
   --ljc-boxbg: rgba(239, 237, 237, 0.7);
   --anzhiyu-theme: #3b70fc;
   --anzhiyu-theme-deep: #1856fb;
@@ -317,6 +346,7 @@ PC菜单栏美化 */
 }
 
 [data-theme="dark"] {
+  --ljc-charts: #eee2e2;
   --ljc-boxbg: rgba(36, 35, 35, 0.7);
   --global-bg: #191919;
   --anzhiyu-theme: #0084ff;
@@ -687,4 +717,19 @@ button {
   /* background: transparent !important; */
   /* background: rgba(22, 128, 221, 0.5) !important; */
   background:  var(--ljc-boxbg);
+}
+
+/* 归档页面 */
+div#archive {
+  background: var(--ljc-boxbg);
+}
+
+/* 首页文章卡片 */
+#recent-posts > .recent-post-item {
+  background: var(--ljc-boxbg);
+}
+
+/* 首页侧栏卡片 */
+#aside-content .card-widget {
+  background: var(--ljc-boxbg);
 }
