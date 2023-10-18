@@ -1,6 +1,6 @@
+http://ljcgo.com/charts/index.html
 http://ljcgo.com/essay/index.html
 http://ljcgo.com/monument/index.html
-http://ljcgo.com/charts/index.html
 http://ljcgo.com/about/index.html
 http://ljcgo.com/comments/index.html
 http://ljcgo.com/img/pwa/manifest.json
