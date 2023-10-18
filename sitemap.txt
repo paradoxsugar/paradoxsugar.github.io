@@ -1,3 +1,5 @@
+http://ljcgo.com/img/pwa/manifest.json
+http://ljcgo.com/img/pwa/README.html
 http://ljcgo.com/charts/index.html
 http://ljcgo.com/project/index.html
 http://ljcgo.com/monument/index.html
@@ -5,8 +7,6 @@ http://ljcgo.com/tags/index.html
 http://ljcgo.com/categories/index.html
 http://ljcgo.com/gallery/index.html
 http://ljcgo.com/essay/index.html
-http://ljcgo.com/img/pwa/manifest.json
-http://ljcgo.com/img/pwa/README.html
 http://ljcgo.com/posts/3331/
 http://ljcgo.com/gallery/test/index.html
 http://ljcgo.com/posts/23919/
@@ -17,8 +17,8 @@ http://ljcgo.com/comments/index.html
 http://ljcgo.com/
 http://ljcgo.com/tags/%E7%AC%94%E8%AE%B0/
 http://ljcgo.com/tags/%E6%9C%AC%E7%A7%91/
-http://ljcgo.com/tags/%E7%94%9F%E6%B4%BB/
 http://ljcgo.com/tags/%E6%9D%82%E8%AE%B0/
+http://ljcgo.com/tags/%E7%94%9F%E6%B4%BB/
 http://ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/
 http://ljcgo.com/categories/%E7%BD%91%E7%AB%99/
 http://ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/AIC/
