@@ -678,3 +678,12 @@ button {
 
 
 
+/* myarchive顶部样式 */
+#page:has(#myarchive) {
+  border: 5;
+  box-shadow: none !important;
+  padding: 2 !important;
+  /* background: transparent !important; */
+  /* background: rgba(22, 128, 221, 0.5) !important; */
+  background:  var(--ljc-boxbg);
+}
