@@ -733,3 +733,14 @@ div#archive {
 #aside-content .card-widget {
   background: var(--ljc-boxbg);
 }
+
+
+/* 文章正文 */
+div#post {
+  background: var(--ljc-boxbg);
+}
+
+/* 分页页面 */
+div#page {
+  background: var(--ljc-boxbg);
+}
