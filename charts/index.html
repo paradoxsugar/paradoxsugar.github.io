@@ -321,7 +321,7 @@ if (true) {
             color: color
           }
         },
-        data: ["杂记","笔记","本科","生活"]
+        data: ["笔记","本科","杂记","生活"]
       },
       yAxis: {
         name: '文章篇数',
@@ -349,7 +349,7 @@ if (true) {
       series: [{
         name: '文章篇数',
         type: 'bar',
-        data: [{"name":"杂记","value":2,"path":"tags/杂记/"},{"name":"笔记","value":2,"path":"tags/笔记/"},{"name":"本科","value":2,"path":"tags/本科/"},{"name":"生活","value":1,"path":"tags/生活/"}],
+        data: [{"name":"笔记","value":2,"path":"tags/笔记/"},{"name":"本科","value":2,"path":"tags/本科/"},{"name":"杂记","value":2,"path":"tags/杂记/"},{"name":"生活","value":1,"path":"tags/生活/"}],
         itemStyle: {
           borderRadius: [5, 5, 0, 0],
           color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [{
@@ -408,7 +408,7 @@ if (true) {
       },
       legend: {
         top: 'bottom',
-        data: ["网站","学习","AIC"],
+        data: ["学习","网站","AIC"],
         textStyle: {
           color: color
         }
@@ -427,7 +427,7 @@ if (true) {
         radius: ['15%', '90%'],
         center: ['50%', '55%'],
         sort: 'desc',
-        data: [{"name":"网站","value":2,"path":"categories/网站/","id":"clnxd5znh0004c8uw8ynl8d9w","parentId":"0"},{"name":"学习","value":2,"path":"categories/学习/","id":"clnxd5znm000bc8uw45r32igh","parentId":"0","children":[{"name":"AIC","value":2,"path":"categories/学习/AIC/","id":"clnxd5znr000nc8uwf9z3gb9y","parentId":"clnxd5znm000bc8uw45r32igh"}]}],
+        data: [{"name":"学习","value":2,"path":"categories/学习/","id":"clnzibn7f0007pwuw6mq1dq1q","parentId":"0","children":[{"name":"AIC","value":2,"path":"categories/学习/AIC/","id":"clnzibn7m000lpwuw6lx0dako","parentId":"clnzibn7f0007pwuw6mq1dq1q"}]},{"name":"网站","value":2,"path":"categories/网站/","id":"clnzibn7i000cpwuw4sh7bwym","parentId":"0"}],
         itemStyle: {
           borderColor: '#fff',
           borderWidth: 2,
@@ -449,7 +449,7 @@ if (true) {
           color: color,
           formatter: '{b} : {c} ({d}%)'
         },
-        data: [{"name":"网站","value":2,"path":"categories/网站/","id":"clnxd5znh0004c8uw8ynl8d9w","parentId":"0"},{"name":"学习","value":2,"path":"categories/学习/","id":"clnxd5znm000bc8uw45r32igh","parentId":"0"},{"name":"AIC","value":2,"path":"categories/学习/AIC/","id":"clnxd5znr000nc8uwf9z3gb9y","parentId":"clnxd5znm000bc8uw45r32igh"}],
+        data: [{"name":"学习","value":2,"path":"categories/学习/","id":"clnzibn7f0007pwuw6mq1dq1q","parentId":"0"},{"name":"网站","value":2,"path":"categories/网站/","id":"clnzibn7i000cpwuw4sh7bwym","parentId":"0"},{"name":"AIC","value":2,"path":"categories/学习/AIC/","id":"clnzibn7m000lpwuw6lx0dako","parentId":"clnzibn7f0007pwuw6mq1dq1q"}],
         itemStyle: {
           emphasis: {
             shadowBlur: 10,
