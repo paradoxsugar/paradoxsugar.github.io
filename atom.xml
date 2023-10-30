@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>辰 のBlog</title>
-  <icon>http://ljcgo.com/icon.png</icon>
+  <icon>http://www.ljcgo.com/icon.png</icon>
   
-  <link href="http://ljcgo.com/atom.xml" rel="self"/>
+  <link href="http://www.ljcgo.com/atom.xml" rel="self"/>
   
-  <link href="http://ljcgo.com/"/>
+  <link href="http://www.ljcgo.com/"/>
   <updated>2023-10-16T16:32:45.479Z</updated>
-  <id>http://ljcgo.com/</id>
+  <id>http://www.ljcgo.com/</id>
   
   <author>
     <name>SilverBullet</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>g_m/i_d设计法</title>
-    <link href="http://ljcgo.com/posts/23919/"/>
-    <id>http://ljcgo.com/posts/23919/</id>
+    <link href="http://www.ljcgo.com/posts/23919/"/>
+    <id>http://www.ljcgo.com/posts/23919/</id>
     <published>2023-07-06T11:47:02.000Z</published>
     <updated>2023-10-16T16:32:45.479Z</updated>
     
@@ -28,21 +28,21 @@
     
     
     
-    <category term="学习" scheme="http://ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="http://www.ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="AIC" scheme="http://ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/AIC/"/>
+    <category term="AIC" scheme="http://www.ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/AIC/"/>
     
     
-    <category term="笔记" scheme="http://ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="本科" scheme="http://ljcgo.com/tags/%E6%9C%AC%E7%A7%91/"/>
+    <category term="本科" scheme="http://www.ljcgo.com/tags/%E6%9C%AC%E7%A7%91/"/>
     
   </entry>
   
   <entry>
     <title>AIC Review</title>
-    <link href="http://ljcgo.com/posts/2/"/>
-    <id>http://ljcgo.com/posts/2/</id>
+    <link href="http://www.ljcgo.com/posts/2/"/>
+    <id>http://www.ljcgo.com/posts/2/</id>
     <published>2023-04-01T15:08:17.000Z</published>
     <updated>2023-10-16T16:20:31.179Z</updated>
     
@@ -51,21 +51,21 @@
     
     
     
-    <category term="学习" scheme="http://ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="http://www.ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="AIC" scheme="http://ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/AIC/"/>
+    <category term="AIC" scheme="http://www.ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/AIC/"/>
     
     
-    <category term="笔记" scheme="http://ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="本科" scheme="http://ljcgo.com/tags/%E6%9C%AC%E7%A7%91/"/>
+    <category term="本科" scheme="http://www.ljcgo.com/tags/%E6%9C%AC%E7%A7%91/"/>
     
   </entry>
   
   <entry>
     <title>小站的建立</title>
-    <link href="http://ljcgo.com/posts/3331/"/>
-    <id>http://ljcgo.com/posts/3331/</id>
+    <link href="http://www.ljcgo.com/posts/3331/"/>
+    <id>http://www.ljcgo.com/posts/3331/</id>
     <published>2023-03-31T02:09:17.000Z</published>
     <updated>2023-10-25T15:33:59.019Z</updated>
     
@@ -74,19 +74,19 @@
     
     
     
-    <category term="网站" scheme="http://ljcgo.com/categories/%E7%BD%91%E7%AB%99/"/>
+    <category term="网站" scheme="http://www.ljcgo.com/categories/%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="杂记" scheme="http://ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
+    <category term="生活" scheme="http://www.ljcgo.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="生活" scheme="http://ljcgo.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="杂记" scheme="http://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>样式测试</title>
-    <link href="http://ljcgo.com/posts/16107/"/>
-    <id>http://ljcgo.com/posts/16107/</id>
+    <link href="http://www.ljcgo.com/posts/16107/"/>
+    <id>http://www.ljcgo.com/posts/16107/</id>
     <published>2023-03-31T02:08:17.000Z</published>
     <updated>2023-10-16T16:18:58.462Z</updated>
     
@@ -95,10 +95,10 @@
     
     
     
-    <category term="网站" scheme="http://ljcgo.com/categories/%E7%BD%91%E7%AB%99/"/>
+    <category term="网站" scheme="http://www.ljcgo.com/categories/%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="杂记" scheme="http://ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
+    <category term="杂记" scheme="http://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
