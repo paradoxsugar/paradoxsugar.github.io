@@ -321,7 +321,7 @@ if (true) {
             color: color
           }
         },
-        data: ["杂记","笔记","本科","生活"]
+        data: ["笔记","本科","杂记","生活"]
       },
       yAxis: {
         name: '文章篇数',
@@ -349,7 +349,7 @@ if (true) {
       series: [{
         name: '文章篇数',
         type: 'bar',
-        data: [{"name":"杂记","value":2,"path":"tags/杂记/"},{"name":"笔记","value":2,"path":"tags/笔记/"},{"name":"本科","value":2,"path":"tags/本科/"},{"name":"生活","value":1,"path":"tags/生活/"}],
+        data: [{"name":"笔记","value":2,"path":"tags/笔记/"},{"name":"本科","value":2,"path":"tags/本科/"},{"name":"杂记","value":2,"path":"tags/杂记/"},{"name":"生活","value":1,"path":"tags/生活/"}],
         itemStyle: {
           borderRadius: [5, 5, 0, 0],
           color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [{
@@ -408,7 +408,7 @@ if (true) {
       },
       legend: {
         top: 'bottom',
-        data: ["网站","学习","AIC"],
+        data: ["学习","网站","AIC"],
         textStyle: {
           color: color
         }
@@ -427,7 +427,7 @@ if (true) {
         radius: ['15%', '90%'],
         center: ['50%', '55%'],
         sort: 'desc',
-        data: [{"name":"网站","value":2,"path":"categories/网站/","id":"clod1avvv0004xkuw0w0x5i85","parentId":"0"},{"name":"学习","value":2,"path":"categories/学习/","id":"clod1avw0000bxkuw0sm818pe","parentId":"0","children":[{"name":"AIC","value":2,"path":"categories/学习/AIC/","id":"clod1avw5000qxkuw9m4d4jrj","parentId":"clod1avw0000bxkuw0sm818pe"}]}],
+        data: [{"name":"学习","value":2,"path":"categories/学习/","id":"clod3uucx00071kuw8ft76pwi","parentId":"0","children":[{"name":"AIC","value":2,"path":"categories/学习/AIC/","id":"clod3uud5000r1kuwebg5foqs","parentId":"clod3uucx00071kuw8ft76pwi"}]},{"name":"网站","value":2,"path":"categories/网站/","id":"clod3uucz000c1kuw1oes3mqt","parentId":"0"}],
         itemStyle: {
           borderColor: '#fff',
           borderWidth: 2,
@@ -449,7 +449,7 @@ if (true) {
           color: color,
           formatter: '{b} : {c} ({d}%)'
         },
-        data: [{"name":"网站","value":2,"path":"categories/网站/","id":"clod1avvv0004xkuw0w0x5i85","parentId":"0"},{"name":"学习","value":2,"path":"categories/学习/","id":"clod1avw0000bxkuw0sm818pe","parentId":"0"},{"name":"AIC","value":2,"path":"categories/学习/AIC/","id":"clod1avw5000qxkuw9m4d4jrj","parentId":"clod1avw0000bxkuw0sm818pe"}],
+        data: [{"name":"学习","value":2,"path":"categories/学习/","id":"clod3uucx00071kuw8ft76pwi","parentId":"0"},{"name":"网站","value":2,"path":"categories/网站/","id":"clod3uucz000c1kuw1oes3mqt","parentId":"0"},{"name":"AIC","value":2,"path":"categories/学习/AIC/","id":"clod3uud5000r1kuwebg5foqs","parentId":"clod3uucx00071kuw8ft76pwi"}],
         itemStyle: {
           emphasis: {
             shadowBlur: 10,
@@ -469,7 +469,7 @@ if (true) {
   </script>
 <!-- posts-chart 的 data-start="2023-01" 属性表示文章发布时间统计图仅显示 2023-01 及以后的文章数据。 -->
 <!-- tags-chart 的 data-length="10" 属性表示仅显示排名前 10 的标签 -->
-<!-- categories-chart 的 data-parent="true" 属性表示 有子分类 时以旭日图显示分类，其他 无子分类 或 设置为false 或 不设置该属性 或 设置为其他非true属性 情况都以饼状图显示分类 --></div></div></main><footer id="footer" style="background: transparent"><div id="footer-wrap"><div class="copyright">©2023 By SilverBullet</div><div class="footer_custom_text">Hi,there! Welcome to my life</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="translateLink" type="button" title="简繁转换">繁</button><a class="icon-V hidden" onclick="switchNightMode()" title="浅色和深色模式转换"><svg width="25" height="25" viewBox="0 0 1024 1024"><use id="modeicon" xlink:href="#icon-moon"></use></svg></a></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.min.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.js"></script><script>function panguFn () {
+<!-- categories-chart 的 data-parent="true" 属性表示 有子分类 时以旭日图显示分类，其他 无子分类 或 设置为false 或 不设置该属性 或 设置为其他非true属性 情况都以饼状图显示分类 --></div></div></main><footer id="footer" style="background: transparent"><div id="footer-wrap"><div class="copyright">©2023 By SilverBullet</div><div class="footer_custom_text"><div>Hi,there! Welcome to my life！</div><div></div><div>本网站由 <img src="https://gcore.jsdelivr.net/gh/YukiNoUta/cdn-static@main/blog/svg/upyun.svg" width="53" height="18"> 提供 CDN 加速/云存储服务</div></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="translateLink" type="button" title="简繁转换">繁</button><a class="icon-V hidden" onclick="switchNightMode()" title="浅色和深色模式转换"><svg width="25" height="25" viewBox="0 0 1024 1024"><use id="modeicon" xlink:href="#icon-moon"></use></svg></a></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.min.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.js"></script><script>function panguFn () {
   if (typeof pangu === 'object') pangu.autoSpacingPage()
   else {
     getScript('https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js')
