@@ -37,4 +37,3 @@ if ($_GET['info']==='true') {
   //若不是则跳转url
   header("Location: $imgurl");
 
-?>
