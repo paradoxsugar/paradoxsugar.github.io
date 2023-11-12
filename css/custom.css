@@ -421,16 +421,56 @@
 
 
 /* 鼠标样式 */
-body {
-  /* cursor: url("https://cdn.jsdelivr.net/gh/xlenco/JS-X@main/mouse/normal.cur"), default; */
+/* body {
   cursor: url(/img/normal.cur), default;
 }
 a,
 img,
-button {
-  /* cursor: url("https://cdn.jsdelivr.net/gh/xlenco/JS-X@main/mouse/link.cur"), default !important; */
+button:hover{
   cursor: url(/img/link.cur), default !important;
 }
+input:hover{
+  cursor: url(/img/beam.cur), auto !important;
+} */
+
+/* 全局默认鼠标指针 */
+body,
+html{
+  cursor: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/cur/arrow.cur'),auto !important;
+}
+/* 悬停图片时的鼠标指针 */
+img{
+  cursor: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/cur/btn.cur'),auto !important;
+}
+/* 选择链接标签时的鼠标指针 */
+a:hover{
+    cursor: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/cur/link.cur'),auto;
+}
+/* 选中输入框时的鼠标指针 */
+input:hover{
+    cursor: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/cur/input.cur'),auto;
+}
+/* 悬停按钮时的鼠标指针 */
+button:hover{
+    cursor: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/cur/btn.cur'),auto;
+}
+/* 悬停列表标签时的鼠标指针 */
+i:hover{
+    cursor: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/cur/link.cur'),auto;
+}
+/* 悬停页脚链接标签（例如页脚徽标）时的鼠标指针 */
+#footer-wrap a:hover{
+      cursor: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/cur/hf.cur'),auto;
+}
+/* 悬停页码时的鼠标指针 */
+#pagination .page-number:hover{
+      cursor: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/cur/i.cur'),auto;
+}
+/* 悬停菜单栏时的鼠标指针 */
+#nav .site-page:hover{
+      cursor: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/cur/hf.cur'),auto;
+}
+
 
 
 .loading-img {
@@ -748,11 +788,11 @@ div#page {
 
 /* 字体 */
 /* woff&woff2 字体才支持 */
-@font-face {
-  font-family: 'Aa';	/* 名称 */
-  /* 字体文件地址(相对或者绝对路径都可以) */
-  src: url('/font/ljcfont.woff2') format("woff2"); /*url('/font/AaQMGYSS.woff') format('woff');*/
-  font-weight: normal;   /* 定义加粗样式(加粗多少) */
-  font-style: normal;   /* 定义字体样式(斜体/非斜体) */
-  font-display: swap;   /* 定义显示样式 */
-}
+/* weight可以改成bold */
+/* @font-face {
+  font-family: 'Apple';	
+  src: url('/font/APPLE.woff2') format("woff2"); 
+  font-weight: normal;   
+  font-style: normal;   
+  font-display: swap;   
+} */
