@@ -2,18 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.ljcgo.com/posts/16107/</loc>
+    <loc>https://www.ljcgo.com/posts/3331/</loc>
     
-    <lastmod>2023-10-30</lastmod>
+    <lastmod>2023-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/posts/3331/</loc>
+    <loc>https://www.ljcgo.com/posts/2/</loc>
     
-    <lastmod>2023-10-30</lastmod>
+    <lastmod>2023-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ljcgo.com/posts/23919/</loc>
+    
+    <lastmod>2023-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ljcgo.com/posts/16107/</loc>
+    
+    <lastmod>2023-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ljcgo.com/gallery/index.html</loc>
+    
+    <lastmod>2023-11-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -110,34 +137,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/gallery/index.html</loc>
-    
-    <lastmod>2023-10-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.ljcgo.com/gallery/test/index.html</loc>
-    
-    <lastmod>2023-10-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ljcgo.com/posts/23919/</loc>
-    
-    <lastmod>2023-10-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ljcgo.com/posts/2/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
@@ -169,14 +169,14 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/</loc>
+    <loc>https://www.ljcgo.com/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
