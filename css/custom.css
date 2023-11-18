@@ -434,6 +434,8 @@ input:hover{
   cursor: url(/cur/Text.cur), auto !important;
 }
 
+
+
 .loading-img {
   background: url(/img/psc.jpg) no-repeat center center;
   background-size: cover;

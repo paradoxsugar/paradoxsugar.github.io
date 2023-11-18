@@ -225,7 +225,7 @@
   margin-left: 8px;
 }
 #nav-music .aplayer .aplayer-info .aplayer-music .aplayer-title {
-  cursor: url(/cur/Move.cur),auto;
+  cursor: url(/cur/Test.cur),auto;
   line-height: 1;
   display: inline-block;
   white-space: nowrap;
@@ -235,6 +235,7 @@
   transition: 0.3s;
   user-select: none;
 }
+
 
 #nav-music .aplayer .aplayer-info .aplayer-controller {
   position: absolute;
