@@ -423,15 +423,15 @@
 
 /* 鼠标样式 */
 body {
-  cursor: url(/cur/Arrow.cur), default;
+  cursor: url(/cur/Arrow.cur), auto;
 }
 a,
 img,
 button:hover{
-  cursor: url(/cur/Link.cur), default !important;
+  cursor: url(/cur/Link.cur), auto !important;
 }
 input:hover{
-  cursor: url(/Cur/Text.cur), auto !important;
+  cursor: url(/cur/Text.cur), auto !important;
 }
 
 .loading-img {
