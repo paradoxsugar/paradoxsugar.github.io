@@ -25,7 +25,7 @@
   position: fixed;
   bottom: 20px;
   left: 20px;
-  cursor: pointer;
+  cursor: url(/cur/Link.cur),auto;
   transition: 0.5s;
   transform-origin: left bottom;
   box-shadow: var(--anzhiyu-shadow-border);
@@ -193,7 +193,7 @@
   display: flex;
   align-items: center;
   padding: 0 12px 0 8px;
-  cursor: pointer;
+  cursor: url(/cur/Link.cur),auto;
   z-index: 1;
   height: 100%;
 }
@@ -225,7 +225,7 @@
   margin-left: 8px;
 }
 #nav-music .aplayer .aplayer-info .aplayer-music .aplayer-title {
-  cursor: pointer;
+  cursor: url(/cur/Move.cur),auto;
   line-height: 1;
   display: inline-block;
   white-space: nowrap;

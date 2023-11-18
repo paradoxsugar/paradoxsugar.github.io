@@ -77,9 +77,9 @@
     <category term="网站" scheme="https://www.ljcgo.com/categories/%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="杂记" scheme="https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
-    
     <category term="生活" scheme="https://www.ljcgo.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="杂记" scheme="https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
@@ -88,7 +88,7 @@
     <link href="https://www.ljcgo.com/posts/16107/"/>
     <id>https://www.ljcgo.com/posts/16107/</id>
     <published>2023-03-31T02:08:17.000Z</published>
-    <updated>2023-11-15T16:34:56.002Z</updated>
+    <updated>2023-11-16T17:45:49.219Z</updated>
     
     
     <summary type="html">Markdown样式测试</summary>
