@@ -6,7 +6,7 @@
   <link href="https://www.ljcgo.com/atom.xml" rel="self"/>
   
   <link href="https://www.ljcgo.com/"/>
-  <updated>2023-11-28T05:30:37.309Z</updated>
+  <updated>2023-12-06T13:26:53.740Z</updated>
   <id>https://www.ljcgo.com/</id>
   
   <author>
@@ -17,42 +17,73 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>PLL Basic</title>
-    <link href="https://www.ljcgo.com/posts/1/"/>
-    <id>https://www.ljcgo.com/posts/1/</id>
-    <published>2023-11-28T05:08:17.000Z</published>
-    <updated>2023-11-28T05:30:37.309Z</updated>
+    <title>Control System</title>
+    <link href="https://www.ljcgo.com/posts/3/"/>
+    <id>https://www.ljcgo.com/posts/3/</id>
+    <published>2023-12-06T02:09:17.000Z</published>
+    <updated>2023-12-06T13:26:53.740Z</updated>
     
     
-    <summary type="html">锁相环基础</summary>
+    <summary type="html">自动控制原理</summary>
     
     
     
-    <category term="学习" scheme="https://www.ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="笔记" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="本科" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/"/>
     
     
     <category term="笔记" scheme="https://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="本科" scheme="https://www.ljcgo.com/tags/%E6%9C%AC%E7%A7%91/"/>
     
+    <category term="Control" scheme="https://www.ljcgo.com/tags/Control/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PLL Basic</title>
+    <link href="https://www.ljcgo.com/posts/5/"/>
+    <id>https://www.ljcgo.com/posts/5/</id>
+    <published>2023-11-28T05:08:17.000Z</published>
+    <updated>2023-12-06T13:17:28.340Z</updated>
+    
+    
+    <summary type="html">锁相环基础</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="本科" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/"/>
+    
+    
+    <category term="笔记" scheme="https://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="本科" scheme="https://www.ljcgo.com/tags/%E6%9C%AC%E7%A7%91/"/>
+    
+    <category term="PLL" scheme="https://www.ljcgo.com/tags/PLL/"/>
+    
   </entry>
   
   <entry>
     <title>g_m/i_d设计法</title>
-    <link href="https://www.ljcgo.com/posts/23919/"/>
-    <id>https://www.ljcgo.com/posts/23919/</id>
+    <link href="https://www.ljcgo.com/posts/4/"/>
+    <id>https://www.ljcgo.com/posts/4/</id>
     <published>2023-07-06T11:47:02.000Z</published>
-    <updated>2023-11-15T16:36:41.596Z</updated>
+    <updated>2023-12-06T13:18:26.738Z</updated>
     
     
     <summary type="html">OTA gm/id设计法</summary>
     
     
     
-    <category term="学习" scheme="https://www.ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="笔记" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="AIC" scheme="https://www.ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/AIC/"/>
+    <category term="本科" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/"/>
     
+    
+    <category term="AIC" scheme="https://www.ljcgo.com/tags/AIC/"/>
     
     <category term="笔记" scheme="https://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
@@ -65,17 +96,19 @@
     <link href="https://www.ljcgo.com/posts/2/"/>
     <id>https://www.ljcgo.com/posts/2/</id>
     <published>2023-04-01T15:08:17.000Z</published>
-    <updated>2023-11-20T15:03:14.706Z</updated>
+    <updated>2023-12-06T13:19:31.743Z</updated>
     
     
     <summary type="html">模拟集成电路学习笔记</summary>
     
     
     
-    <category term="学习" scheme="https://www.ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="笔记" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="AIC" scheme="https://www.ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/AIC/"/>
+    <category term="本科" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/"/>
     
+    
+    <category term="AIC" scheme="https://www.ljcgo.com/tags/AIC/"/>
     
     <category term="笔记" scheme="https://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
@@ -85,13 +118,13 @@
   
   <entry>
     <title>小站的建立</title>
-    <link href="https://www.ljcgo.com/posts/3331/"/>
-    <id>https://www.ljcgo.com/posts/3331/</id>
+    <link href="https://www.ljcgo.com/posts/1/"/>
+    <id>https://www.ljcgo.com/posts/1/</id>
     <published>2023-03-31T02:09:17.000Z</published>
-    <updated>2023-11-15T16:37:34.752Z</updated>
+    <updated>2023-12-06T13:20:22.110Z</updated>
     
     
-    <summary type="html">记录一下网站成立的前因后果，以及相关的美化升级</summary>
+    <summary type="html">记录一下网站成立的前因后果，以及食用方法</summary>
     
     
     
@@ -106,10 +139,10 @@
   
   <entry>
     <title>样式测试</title>
-    <link href="https://www.ljcgo.com/posts/16107/"/>
-    <id>https://www.ljcgo.com/posts/16107/</id>
+    <link href="https://www.ljcgo.com/posts/99/"/>
+    <id>https://www.ljcgo.com/posts/99/</id>
     <published>2023-03-31T02:08:17.000Z</published>
-    <updated>2023-11-16T17:45:49.219Z</updated>
+    <updated>2023-12-06T13:53:50.928Z</updated>
     
     
     <summary type="html">Markdown样式测试</summary>
