@@ -1,7 +1,0 @@
-# hexo robots.txt
-User-agent: *
-Allow: /
-
-Sitemap: https://www.ljcgo.com/sitemap.xml
-Sitemap: https://www.ljcgo.com/baidusitemap.xml
-
