@@ -12,7 +12,7 @@ var anzhiyu = {
       navMusicEl.classList.remove("playing");
       // 修改右键菜单文案为播放
       // document.getElementById("menu-music-toggle").innerHTML = msgPlay;
-      // document.getElementById("nav-music-hoverTips").innerHTML = "音乐已暂停";
+      document.getElementById("nav-music-hoverTips").innerHTML = "音乐已暂停";
       // document.querySelector("#consoleMusic").classList.remove("on");
       anzhiyu_musicPlaying = false;
       navMusicEl.classList.remove("stretch");

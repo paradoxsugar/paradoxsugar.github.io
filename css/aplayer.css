@@ -25,7 +25,7 @@
   position: fixed;
   bottom: 20px;
   left: 20px;
-  cursor: url(/cur/Link.cur),auto;
+  cursor: pointer;
   transition: 0.5s;
   transform-origin: left bottom;
   box-shadow: var(--anzhiyu-shadow-border);
@@ -193,7 +193,7 @@
   display: flex;
   align-items: center;
   padding: 0 12px 0 8px;
-  cursor: url(/cur/Link.cur),auto;
+  cursor: pointer;
   z-index: 1;
   height: 100%;
 }
@@ -225,7 +225,7 @@
   margin-left: 8px;
 }
 #nav-music .aplayer .aplayer-info .aplayer-music .aplayer-title {
-  cursor: url(/cur/Test.cur),auto;
+  cursor: pointer;
   line-height: 1;
   display: inline-block;
   white-space: nowrap;
@@ -235,7 +235,6 @@
   transition: 0.3s;
   user-select: none;
 }
-
 
 #nav-music .aplayer .aplayer-info .aplayer-controller {
   position: absolute;
