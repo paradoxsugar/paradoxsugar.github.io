@@ -324,7 +324,7 @@ setTimeout(function(){preloader.endLoading();}, 2000); </script><link rel="style
             color: color
           }
         },
-        data: ["笔记","本科","杂记","AIC","Control","PLL","生活"]
+        data: ["笔记","本科","杂记","AIC","PLL","Control","生活"]
       },
       yAxis: {
         name: '文章篇数',
@@ -352,7 +352,7 @@ setTimeout(function(){preloader.endLoading();}, 2000); </script><link rel="style
       series: [{
         name: '文章篇数',
         type: 'bar',
-        data: [{"name":"笔记","value":4,"path":"tags/笔记/"},{"name":"本科","value":4,"path":"tags/本科/"},{"name":"杂记","value":4,"path":"tags/杂记/"},{"name":"AIC","value":2,"path":"tags/AIC/"},{"name":"Control","value":1,"path":"tags/Control/"},{"name":"PLL","value":1,"path":"tags/PLL/"},{"name":"生活","value":1,"path":"tags/生活/"}],
+        data: [{"name":"笔记","value":4,"path":"tags/笔记/"},{"name":"本科","value":4,"path":"tags/本科/"},{"name":"杂记","value":4,"path":"tags/杂记/"},{"name":"AIC","value":2,"path":"tags/AIC/"},{"name":"PLL","value":1,"path":"tags/PLL/"},{"name":"Control","value":1,"path":"tags/Control/"},{"name":"生活","value":1,"path":"tags/生活/"}],
         itemStyle: {
           borderRadius: [5, 5, 0, 0],
           color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [{
@@ -411,7 +411,7 @@ setTimeout(function(){preloader.endLoading();}, 2000); </script><link rel="style
       },
       legend: {
         top: 'bottom',
-        data: ["笔记","本科","网站"],
+        data: ["笔记","网站","本科"],
         textStyle: {
           color: color
         }
@@ -430,7 +430,7 @@ setTimeout(function(){preloader.endLoading();}, 2000); </script><link rel="style
         radius: ['15%', '90%'],
         center: ['50%', '55%'],
         sort: 'desc',
-        data: [{"name":"笔记","value":4,"path":"categories/笔记/","id":"clpw7btp70007qguwc9wg42mk","parentId":"0","children":[{"name":"本科","value":4,"path":"categories/笔记/本科/","id":"clpw7btpg000nqguw480p43u9","parentId":"clpw7btp70007qguwc9wg42mk"}]},{"name":"网站","value":4,"path":"categories/网站/","id":"clpw7btpj000xqguw127s8o11","parentId":"0"}],
+        data: [{"name":"笔记","value":4,"path":"categories/笔记/","id":"clpw91heu0007l0uw7675391n","parentId":"0","children":[{"name":"本科","value":4,"path":"categories/笔记/本科/","id":"clpw91hf2000nl0uw4niegtyn","parentId":"clpw91heu0007l0uw7675391n"}]},{"name":"网站","value":4,"path":"categories/网站/","id":"clpw91hf0000il0uw30h49sy1","parentId":"0"}],
         itemStyle: {
           borderColor: '#fff',
           borderWidth: 2,
@@ -452,7 +452,7 @@ setTimeout(function(){preloader.endLoading();}, 2000); </script><link rel="style
           color: color,
           formatter: '{b} : {c} ({d}%)'
         },
-        data: [{"name":"笔记","value":4,"path":"categories/笔记/","id":"clpw7btp70007qguwc9wg42mk","parentId":"0"},{"name":"本科","value":4,"path":"categories/笔记/本科/","id":"clpw7btpg000nqguw480p43u9","parentId":"clpw7btp70007qguwc9wg42mk"},{"name":"网站","value":4,"path":"categories/网站/","id":"clpw7btpj000xqguw127s8o11","parentId":"0"}],
+        data: [{"name":"笔记","value":4,"path":"categories/笔记/","id":"clpw91heu0007l0uw7675391n","parentId":"0"},{"name":"网站","value":4,"path":"categories/网站/","id":"clpw91hf0000il0uw30h49sy1","parentId":"0"},{"name":"本科","value":4,"path":"categories/笔记/本科/","id":"clpw91hf2000nl0uw4niegtyn","parentId":"clpw91heu0007l0uw7675391n"}],
         itemStyle: {
           emphasis: {
             shadowBlur: 10,
