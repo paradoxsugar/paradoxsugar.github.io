@@ -459,11 +459,10 @@ input:hover{
 }
 
 /* 宽屏适配 */
-.layout{
+/* .layout{
   width: 100%;
   max-width:1400px;
 }
-/* 重新定义宽度 */
 
 .layout > div:first-child {
   width: 100%;
@@ -478,7 +477,6 @@ input:hover{
 .layout.hide-aside {
   max-width: 1400px;
 }
-/* 定义是否侧边栏的宽度 */
 
 #recent-posts > .recent-post-item {
   height: 19em;
@@ -497,8 +495,7 @@ input:hover{
       width: 100%;
       text-align: center;
   }
-}
-/* 主页文章列表图片宽度 */
+} */
 
 /* icat-page顶部样式 */
 #page:has(#icat_page) {

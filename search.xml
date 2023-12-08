@@ -109,11 +109,11 @@
       
         <tags>
             
+            <tag> AIC </tag>
+            
             <tag> 笔记 </tag>
             
             <tag> 本科 </tag>
-            
-            <tag> AIC </tag>
             
         </tags>
       
@@ -140,38 +140,11 @@
       
         <tags>
             
+            <tag> AIC </tag>
+            
             <tag> 笔记 </tag>
             
             <tag> 本科 </tag>
-            
-            <tag> AIC </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>小站的建立</title>
-      <link href="/posts/1/"/>
-      <url>/posts/1/</url>
-      
-        <content type="html"><![CDATA[<h2 id="网站的意义">网站的意义</h2><p>我一直喜欢记录生活，把自己的所见所闻所感用文字或图片的形式保存下来。我觉得这样可以让我更好地回顾和反思自己的成长，也可以让我更加珍惜每一天的点滴。我认为生活是一本书，每一页都值得被记录和分享。</p><p>除了记录生活，我还喜欢分享学习笔记。我是一个爱学习的人，我喜欢阅读各种书籍，学习各种知识，不断地充实自己。我觉得学习不仅是为了应付考试或者找工作，更是为了提高自己的素养和视野。我也喜欢和别人交流学习心得，听取不同的观点和建议，互相促进和进步。</p><p>因此，我决定建立这么一个个人网站，把我的生活记录和学习笔记都放在这里。我希望通过这个网站，可以和更多有相同兴趣和爱好的人交流和互动，也可以给其他想要记录生活或者分享学习的人一些启发和鼓励。我相信这个网站会成为我展示自己和认识世界的一个平台，也会成为我不断学习和进步的一个动力。</p><blockquote><p>以上内容由chatGPT生成，但想法是一样的。至于为什么不自己写，主要就是懒</p></blockquote><h2 id="网站的内容">网站的内容</h2><blockquote><p>了解我：<a href="https://www.ljcgo.com/about/">关于 | 辰 のBlog (ljcgo.com)</a></p></blockquote><blockquote><p>学习笔记：<a href="https://www.ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/">学习分类 | 辰 のBlog (ljcgo.com)</a>将持续更新<br>主要内容是<strong>微电子模拟方向的专业知识记录</strong>，方便我的总结归纳和随查随用</p></blockquote><blockquote><p>生活部分：在<a href="https://www.ljcgo.com/essay/">说说 | 辰 のBlog (ljcgo.com)</a>、<a href="https://www.ljcgo.com/gallery/">相册 | 辰 のBlog (ljcgo.com)</a>、<a href="https://www.ljcgo.com/project/">清单 | 辰 のBlog (ljcgo.com)</a>、<a href="https://www.ljcgo.com/monument/">纪念 | 辰 のBlog (ljcgo.com)</a>页面记录<br>欢迎投来关注的目光</p></blockquote><blockquote><p>给我留言：<a href="https://www.ljcgo.com/comments/">留言板 | 辰 のBlog (ljcgo.com)</a></p></blockquote><h2 id="网站的食用">网站的食用</h2><h3 id="订阅网站">订阅网站</h3><blockquote><p>将该链接复制到RSS订阅器即可订阅网站</p></blockquote><p><a href="https://www.ljcgo.com/atom.xml">https://www.ljcgo.com/atom.xml</a></p><h3 id="PWA">PWA</h3><blockquote><p>本网站适配了PWA，可以安装在设备上，然后以应用程序的形式出现在用户面前，成为用户设备的一个永久功能，用户可以像启动其他任何应用程序一样直接从操作系统启动它。</p></blockquote><p>在桌面上：</p><ul><li>Firefox 和 Safari 不支持在任何桌面操作系统上安装 PWA。</li><li>Chrome 和 Edge 支持在 Linux、Windows、macOS 和 Chromebook 上安装 PWA。</li></ul><p>在移动设备上：</p><ul><li>在 Android、Firefox、Chrome、Edge、Opera 和 Samsung Internet Browser 上都支持安装 PWA。</li><li>在 iOS 16.3 及更早版本上，PWA 只能通过 Safari 安装。</li><li>在 iOS 16.4 及更高版本上，PWA 可以通过 Safari、Chrome、Edge、Firefox 和 Orion 的分享菜单安装</li></ul><p>安装方式详见：<a href="https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps/Guides/Installing#%E5%8F%82%E8%A7%81">安装和卸载 Web 应用 - 渐进式 Web 应用（PWA） | MDN</a></p><h3 id="SEO">SEO</h3><p>本站已经对<a href="https://www.bing.com/">Bing</a>、<a href="https://www.baidu.com/">Baidu</a>、<a href="https://www.google.com/">Google</a>进行了网址提交，可以在这些网站上快速搜索到本网站的相关内容</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 网站 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 生活 </tag>
-            
-            <tag> 杂记 </tag>
             
         </tags>
       
@@ -181,8 +154,8 @@
     
     <entry>
       <title>样式测试</title>
-      <link href="/posts/99/"/>
-      <url>/posts/99/</url>
+      <link href="/posts/97/"/>
+      <url>/posts/97/</url>
       
         <content type="html"><![CDATA[<h2 id="Latex渲染测试">Latex渲染测试</h2><h3 id="标题Latex-2-x">标题Latex <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mn>2</mn><mi>x</mi></msup></mrow><annotation encoding="application/x-tex">2^x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6644em;"></span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">x</span></span></span></span></span></span></span></span></span></span></span></h3><p>文本Latex <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mn>2</mn><mi>x</mi></msup></mrow><annotation encoding="application/x-tex">2^x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6644em;"></span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">x</span></span></span></span></span></span></span></span></span></span></span></p><h2 id="Markdown标签外挂">Markdown标签外挂</h2><h3 id="哔哩哔哩">哔哩哔哩</h3><div align="center" class="aspect-ratio">  <iframe    src="https://player.bilibili.com/player.html?aid=584064695&&page=1&as_wide=1&high_quality=1&danmaku=0"    scrolling="no"    border="0"    frameborder="no"    framespacing="0"    high_quality="1"    danmaku="1"    allowfullscreen="true"  ></iframe></div><h3 id="折叠内容">折叠内容</h3><details>  <summary>Title</summary>  something  something  something</details><h3 id="剧透隐藏">剧透隐藏</h3><p><span style="color: black; background: black; span:hover { color: white}">test</span></p><h3 id="分栏">分栏</h3><html>    <table style="margin-left: auto; margin-right: auto;">        <tr>            <td>            <!--内容-->              <details>              <summary>FIRST</summary>              something              something              something              </details>            </td>            <td>            <!--内容-->              <details>              <summary>SECOND</summary>              something              something              something              </details>            </td>            <td>            <!--内容-->              <details>              <summary>THIRD</summary>              something              something              something              </details>            </td>        </tr>    </table></html><h3 id="行内代码">行内代码</h3><p>C语言里的函数 <code>scanf()</code> 怎么使用？</p>]]></content>
       
@@ -197,6 +170,58 @@
         <tags>
             
             <tag> 杂记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>小站的食用</title>
+      <link href="/posts/98/"/>
+      <url>/posts/98/</url>
+      
+        <content type="html"><![CDATA[<h2 id="订阅网站">订阅网站</h2><blockquote><p>将该链接复制到RSS订阅器即可订阅网站</p></blockquote><p><a href="https://www.ljcgo.com/atom.xml">https://www.ljcgo.com/atom.xml</a></p><h2 id="PWA">PWA</h2><blockquote><p>本网站适配了PWA，可以安装在设备上，然后以应用程序的形式出现在用户面前，成为用户设备的一个永久功能，用户可以像启动其他任何应用程序一样直接从操作系统启动它。</p></blockquote><p>在桌面上：</p><ul><li>Firefox 和 Safari 不支持在任何桌面操作系统上安装 PWA。</li><li>Chrome 和 Edge 支持在 Linux、Windows、macOS 和 Chromebook 上安装 PWA。</li></ul><p>在移动设备上：</p><ul><li>在 Android、Firefox、Chrome、Edge、Opera 和 Samsung Internet Browser 上都支持安装 PWA。</li><li>在 iOS 16.3 及更早版本上，PWA 只能通过 Safari 安装。</li><li>在 iOS 16.4 及更高版本上，PWA 可以通过 Safari、Chrome、Edge、Firefox 和 Orion 的分享菜单安装</li></ul><p>安装方式详见：<a href="https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps/Guides/Installing#%E5%8F%82%E8%A7%81">安装和卸载 Web 应用 - 渐进式 Web 应用（PWA） | MDN</a></p><h2 id="SEO">SEO</h2><p>本站已经对<a href="https://www.bing.com/">Bing</a>、<a href="https://www.baidu.com/">Baidu</a>、<a href="https://www.google.com/">Google</a>进行了网址提交，可以在这些网站上快速搜索到本网站的相关内容</p><h2 id="音乐播放器">音乐播放器</h2><p>本站页底添加有吸底隐藏的音乐播放器，默认关闭歌词显示、随机播放、不打开，可以自行播放想听的音乐哦！</p><h2 id="评论系统">评论系统</h2><ul><li><p>输入QQ号能够自动获取头像，不然只能使用默认头像</p></li><li><p>输入邮箱后会在得到回复的时候通知您</p></li><li><p>评论已适配Katex&amp;Markdown语法，但仅支持内置表情，不支持Markdown表情</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>小站的建立</title>
+      <link href="/posts/99/"/>
+      <url>/posts/99/</url>
+      
+        <content type="html"><![CDATA[<h2 id="网站的意义">网站的意义</h2><p>我一直喜欢记录生活，把自己的所见所闻所感用文字或图片的形式保存下来。我觉得这样可以让我更好地回顾和反思自己的成长，也可以让我更加珍惜每一天的点滴。我认为生活是一本书，每一页都值得被记录和分享。</p><p>除了记录生活，我还喜欢分享学习笔记。我是一个爱学习的人，我喜欢阅读各种书籍，学习各种知识，不断地充实自己。我觉得学习不仅是为了应付考试或者找工作，更是为了提高自己的素养和视野。我也喜欢和别人交流学习心得，听取不同的观点和建议，互相促进和进步。</p><p>因此，我决定建立这么一个个人网站，把我的生活记录和学习笔记都放在这里。我希望通过这个网站，可以和更多有相同兴趣和爱好的人交流和互动，也可以给其他想要记录生活或者分享学习的人一些启发和鼓励。我相信这个网站会成为我展示自己和认识世界的一个平台，也会成为我不断学习和进步的一个动力。</p><blockquote><p>以上内容由chatGPT生成，但想法是一样的。至于为什么不自己写，主要就是懒</p></blockquote><h2 id="网站的内容">网站的内容</h2><blockquote><p>了解我：<a href="https://www.ljcgo.com/about/">关于 | 辰 のBlog (ljcgo.com)</a></p></blockquote><blockquote><p>学习笔记：<a href="https://www.ljcgo.com/categories/%E5%AD%A6%E4%B9%A0/">学习分类 | 辰 のBlog (ljcgo.com)</a>将持续更新<br>主要内容是<strong>微电子模拟方向的专业知识记录</strong>，方便我的总结归纳和随查随用</p></blockquote><blockquote><p>生活部分：在<a href="https://www.ljcgo.com/essay/">说说 | 辰 のBlog (ljcgo.com)</a>、<a href="https://www.ljcgo.com/gallery/">相册 | 辰 のBlog (ljcgo.com)</a>、<a href="https://www.ljcgo.com/project/">清单 | 辰 のBlog (ljcgo.com)</a>、<a href="https://www.ljcgo.com/monument/">纪念 | 辰 のBlog (ljcgo.com)</a>页面记录<br>欢迎投来关注的目光</p></blockquote><blockquote><p>给我留言：<a href="https://www.ljcgo.com/comments/">留言板 | 辰 のBlog (ljcgo.com)</a></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂记 </tag>
+            
+            <tag> 生活 </tag>
             
         </tags>
       

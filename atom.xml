@@ -102,11 +102,11 @@
     <category term="本科" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/"/>
     
     
+    <category term="AIC" scheme="https://www.ljcgo.com/tags/AIC/"/>
+    
     <category term="笔记" scheme="https://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="本科" scheme="https://www.ljcgo.com/tags/%E6%9C%AC%E7%A7%91/"/>
-    
-    <category term="AIC" scheme="https://www.ljcgo.com/tags/AIC/"/>
     
   </entry>
   
@@ -127,20 +127,58 @@
     <category term="本科" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/"/>
     
     
+    <category term="AIC" scheme="https://www.ljcgo.com/tags/AIC/"/>
+    
     <category term="笔记" scheme="https://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="本科" scheme="https://www.ljcgo.com/tags/%E6%9C%AC%E7%A7%91/"/>
     
-    <category term="AIC" scheme="https://www.ljcgo.com/tags/AIC/"/>
+  </entry>
+  
+  <entry>
+    <title>样式测试</title>
+    <link href="https://www.ljcgo.com/posts/97/"/>
+    <id>https://www.ljcgo.com/posts/97/</id>
+    <published>2023-03-31T02:08:17.000Z</published>
+    <updated>2023-12-08T05:06:42.985Z</updated>
+    
+    
+    <summary type="html">博文语法样式测试</summary>
+    
+    
+    
+    <category term="网站" scheme="https://www.ljcgo.com/categories/%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="杂记" scheme="https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小站的食用</title>
+    <link href="https://www.ljcgo.com/posts/98/"/>
+    <id>https://www.ljcgo.com/posts/98/</id>
+    <published>2023-02-22T02:09:17.000Z</published>
+    <updated>2023-12-08T05:04:43.776Z</updated>
+    
+    
+    <summary type="html">记录一下网站成立优化后的食用方法</summary>
+    
+    
+    
+    <category term="网站" scheme="https://www.ljcgo.com/categories/%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="杂记" scheme="https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>小站的建立</title>
-    <link href="https://www.ljcgo.com/posts/1/"/>
-    <id>https://www.ljcgo.com/posts/1/</id>
-    <published>2023-03-31T02:09:17.000Z</published>
-    <updated>2023-12-06T13:20:22.110Z</updated>
+    <link href="https://www.ljcgo.com/posts/99/"/>
+    <id>https://www.ljcgo.com/posts/99/</id>
+    <published>2023-02-21T02:09:17.000Z</published>
+    <updated>2023-12-08T04:58:12.988Z</updated>
     
     
     <summary type="html">记录一下网站成立的前因后果，以及食用方法</summary>
@@ -150,28 +188,9 @@
     <category term="网站" scheme="https://www.ljcgo.com/categories/%E7%BD%91%E7%AB%99/"/>
     
     
+    <category term="杂记" scheme="https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
+    
     <category term="生活" scheme="https://www.ljcgo.com/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-    <category term="杂记" scheme="https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>样式测试</title>
-    <link href="https://www.ljcgo.com/posts/99/"/>
-    <id>https://www.ljcgo.com/posts/99/</id>
-    <published>2023-03-31T02:08:17.000Z</published>
-    <updated>2023-12-06T15:24:07.677Z</updated>
-    
-    
-    <summary type="html">Markdown样式测试</summary>
-    
-    
-    
-    <category term="网站" scheme="https://www.ljcgo.com/categories/%E7%BD%91%E7%AB%99/"/>
-    
-    
-    <category term="杂记" scheme="https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
