@@ -6,7 +6,7 @@
   <link href="https://www.ljcgo.com/atom.xml" rel="self"/>
   
   <link href="https://www.ljcgo.com/"/>
-  <updated>2023-12-06T16:42:44.606Z</updated>
+  <updated>2023-12-09T17:15:49.767Z</updated>
   <id>https://www.ljcgo.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>博客多地管理</title>
-    <link href="https://www.ljcgo.com/posts/6/"/>
-    <id>https://www.ljcgo.com/posts/6/</id>
+    <link href="https://www.ljcgo.com/posts/96/"/>
+    <id>https://www.ljcgo.com/posts/96/</id>
     <published>2023-12-07T02:09:17.000Z</published>
-    <updated>2023-12-06T16:42:44.606Z</updated>
+    <updated>2023-12-09T17:15:49.767Z</updated>
     
     
     <summary type="html">多地书写博客的食用方法</summary>
@@ -62,10 +62,10 @@
   
   <entry>
     <title>PLL Basic</title>
-    <link href="https://www.ljcgo.com/posts/5/"/>
-    <id>https://www.ljcgo.com/posts/5/</id>
+    <link href="https://www.ljcgo.com/posts/4/"/>
+    <id>https://www.ljcgo.com/posts/4/</id>
     <published>2023-11-28T05:08:17.000Z</published>
-    <updated>2023-12-06T13:17:28.340Z</updated>
+    <updated>2023-12-09T17:16:07.471Z</updated>
     
     
     <summary type="html">锁相环基础</summary>
@@ -87,10 +87,10 @@
   
   <entry>
     <title>g_m/i_d设计法</title>
-    <link href="https://www.ljcgo.com/posts/4/"/>
-    <id>https://www.ljcgo.com/posts/4/</id>
+    <link href="https://www.ljcgo.com/posts/2/"/>
+    <id>https://www.ljcgo.com/posts/2/</id>
     <published>2023-07-06T11:47:02.000Z</published>
-    <updated>2023-12-06T13:18:26.738Z</updated>
+    <updated>2023-12-09T17:16:09.494Z</updated>
     
     
     <summary type="html">OTA gm/id设计法</summary>
@@ -112,10 +112,10 @@
   
   <entry>
     <title>AIC Review</title>
-    <link href="https://www.ljcgo.com/posts/2/"/>
-    <id>https://www.ljcgo.com/posts/2/</id>
+    <link href="https://www.ljcgo.com/posts/1/"/>
+    <id>https://www.ljcgo.com/posts/1/</id>
     <published>2023-04-01T15:08:17.000Z</published>
-    <updated>2023-12-06T13:19:31.743Z</updated>
+    <updated>2023-12-09T17:16:08.357Z</updated>
     
     
     <summary type="html">模拟集成电路学习笔记</summary>
@@ -188,9 +188,9 @@
     <category term="网站" scheme="https://www.ljcgo.com/categories/%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="杂记" scheme="https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
-    
     <category term="生活" scheme="https://www.ljcgo.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="杂记" scheme="https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
