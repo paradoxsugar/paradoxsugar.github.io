@@ -173,6 +173,7 @@
 
 /* 颜色 */
 :root {
+  --my-charts: var(--ljc-charts);
   --anzhiyu-theme-op: #4259ef23;
   --anzhiyu-gray-op: #9999992b;
   --anzhiyu-theme-top: var(--anzhiyu-theme);
@@ -275,7 +276,7 @@
 }
 
 [data-theme="light"] {
-  --ljc-charts: #000000;
+  --ljc-charts: #4c4948;
   --ljc-boxbg: rgba(239, 237, 237, 0.7);
   --anzhiyu-theme: #3b70fc;
   --anzhiyu-theme-deep: #1856fb;
@@ -347,7 +348,7 @@
 }
 
 [data-theme="dark"] {
-  --ljc-charts: #eee2e2;
+  --ljc-charts: #fdfdfd;
   --ljc-boxbg: rgba(36, 35, 35, 0.7);
   --global-bg: #191919;
   --anzhiyu-theme: #0084ff;
