@@ -48,7 +48,7 @@
   top: 0;
   width: 100%;
   height: 100%;
-  content: "Hi😄";
+  content: "Hi🛫";
   /* content: url(/img/random.gif); */
   font-family: "iconfont" !important;
   font-size: 22px;
@@ -100,10 +100,23 @@
   margin-top: 10px;
   border: 1px solid var(--icat-secondbg);
 }
-/* #nav .menus_items .menus_item .menus_item_child li a, #nav .menus_items .icat_menus_item .menus_item_child li a {
-  padding: 8px 34px;
-  text-align: center;
+/* 子菜单横向 */
+/* #nav .menus_items .menus_item:hover .menus_item_child{
+  display: flex;
 } */
+/* 这里的4是代表导航栏的第4个元素，即有子菜单的元素，可以按自己需求修改 */
+.menus_items .menus_item:nth-child(1) .menus_item_child {
+  left: 5px;
+}
+.menus_items .menus_item:nth-child(2) .menus_item_child {
+  left: 5px;
+}
+.menus_items .menus_item:nth-child(3) .menus_item_child {
+  left: 5px;
+}
+.menus_items .menus_item:nth-child(4) .menus_item_child {
+  left: -2px;
+}
 #travellings {
   padding: 0 14px 0 0;
 }
