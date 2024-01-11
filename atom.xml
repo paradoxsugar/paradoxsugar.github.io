@@ -6,7 +6,7 @@
   <link href="https://www.ljcgo.com/atom.xml" rel="self"/>
   
   <link href="https://www.ljcgo.com/"/>
-  <updated>2023-12-09T17:15:49.767Z</updated>
+  <updated>2024-01-11T17:03:49.734Z</updated>
   <id>https://www.ljcgo.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Edge设置</title>
+    <link href="https://www.ljcgo.com/posts/95/"/>
+    <id>https://www.ljcgo.com/posts/95/</id>
+    <published>2024-01-12T02:08:17.000Z</published>
+    <updated>2024-01-11T17:03:49.734Z</updated>
+    
+    
+    <summary type="html">Edge的AI、版本回退和禁用更新</summary>
+    
+    
+    
+    <category term="电脑" scheme="https://www.ljcgo.com/categories/%E7%94%B5%E8%84%91/"/>
+    
+    
+    <category term="杂记" scheme="https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="电脑" scheme="https://www.ljcgo.com/tags/%E7%94%B5%E8%84%91/"/>
+    
+  </entry>
   
   <entry>
     <title>博客多地管理</title>

@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Edge设置</title>
+      <link href="/posts/95/"/>
+      <url>/posts/95/</url>
+      
+        <content type="html"><![CDATA[<p>本文参考：<a href="https://zhuanlan.zhihu.com/p/673914163">知乎链接</a></p><h2 id="Edge-开启右上角Copilot">Edge 开启右上角Copilot</h2><p>正式版：</p><ul><li><p>点击三个点下拉，选择底部：关闭edge</p><blockquote><p>等效于任务管理器关闭Edge所有进程</p></blockquote></li><li><p>路径<code>%APPDATA%\..\Local\Microsoft\Edge Dev\User Data</code>下删除<code>Locol State</code>文件</p></li><li><p>科学上网，打开Edge完成基本设置，右上角Copilot回来了！</p></li></ul><blockquote><p>可以把新的<code>Locol State</code>文件备份，每次开启Edge使用脚本替换新产生的<code>Local State</code>文件</p></blockquote><blockquote><p>更简便的做法：修改<code>Locol State</code>文件中的<code>variations_country</code>值为<code>US</code>即可</p></blockquote><p>Dev版：</p><p><code>Local State</code> 文件的 <code>variations_country</code> 将不再起作用，Copilot的开关迁移到了 <code>Preferences</code> 文件下的 <code>browser</code> 键下的 <code>chat_ip_eligibility_status</code> 键，它的值是一个布尔值，值为<code>true</code> 时Copilot可用，为 <code>false</code> 时不可用。</p><h2 id="Edge禁用自动更新">Edge禁用自动更新</h2><p>为了防止Edge浏览器自动更新至最新版本，可以通过禁用更新服务和修改更新程序的方式禁止Edge浏览器更新。</p><p>这里演示修改更新程序的方法：</p><ol><li><p>找到 <code>%ProgramFiles(x86)%\Microsoft\EdgeUpdate</code> 目录中的 <code>MicrosoftEdgeUpdate.exe</code> 更新程序，将它重命名，例如 <code>MicrosoftEdgeUpdate2.exe</code></p></li><li><p>将 <code>%ProgramFiles(x86)%\Microsoft\Edge\Application\119.0.2151.97</code> 目录下的 <code>elevation_service.exe</code> 重命名（这里的119.0.2151.97对应你所安装的旧版Edge版本号）。</p></li></ol><p>这两个都是Edge浏览器的更新升级程序，将它们重命名后，Edge浏览器就会因为找不到更新程序而无法更新。当需要更新浏览器时，只需改回原名即可。</p><h2 id="卸载Edge">卸载Edge</h2><p>GitHub项目：<a href="https://github.com/ShadowWhisperer/Remove-MS-Edge">Github链接</a></p><blockquote><p>此举不会删除Edge浏览器的用户数据，可以放心卸载</p></blockquote><ul><li>下载Remove-Edge_GUI.exe</li><li>运行后点击Remove即可</li></ul><h2 id="Edge旧版下载">Edge旧版下载</h2><p>官网：<a href="https://www.microsoft.com/en-us/edge/business/download?form=MA13H4">Microsoft链接</a></p><p>下拉可以找到旧版本Edge下载页面，选择对应版本下载即可</p><blockquote><p>截稿时期前，推荐Stable119.0.2151.97</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂记 </tag>
+            
+            <tag> 电脑 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客多地管理</title>
       <link href="/posts/96/"/>
       <url>/posts/96/</url>
