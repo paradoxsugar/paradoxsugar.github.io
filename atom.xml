@@ -6,7 +6,7 @@
   <link href="https://www.ljcgo.com/atom.xml" rel="self"/>
   
   <link href="https://www.ljcgo.com/"/>
-  <updated>2024-01-11T17:03:49.734Z</updated>
+  <updated>2024-01-14T09:08:28.131Z</updated>
   <id>https://www.ljcgo.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.ljcgo.com/posts/95/"/>
     <id>https://www.ljcgo.com/posts/95/</id>
     <published>2024-01-12T02:08:17.000Z</published>
-    <updated>2024-01-11T17:03:49.734Z</updated>
+    <updated>2024-01-14T09:08:28.131Z</updated>
     
     
     <summary type="html">Edge的AI、版本回退和禁用更新</summary>
@@ -123,11 +123,11 @@
     <category term="本科" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/"/>
     
     
+    <category term="AIC" scheme="https://www.ljcgo.com/tags/AIC/"/>
+    
     <category term="笔记" scheme="https://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="本科" scheme="https://www.ljcgo.com/tags/%E6%9C%AC%E7%A7%91/"/>
-    
-    <category term="AIC" scheme="https://www.ljcgo.com/tags/AIC/"/>
     
   </entry>
   
@@ -148,11 +148,11 @@
     <category term="本科" scheme="https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/"/>
     
     
+    <category term="AIC" scheme="https://www.ljcgo.com/tags/AIC/"/>
+    
     <category term="笔记" scheme="https://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="本科" scheme="https://www.ljcgo.com/tags/%E6%9C%AC%E7%A7%91/"/>
-    
-    <category term="AIC" scheme="https://www.ljcgo.com/tags/AIC/"/>
     
   </entry>
   
