@@ -7,7 +7,7 @@
   /* 浅色模式颜色 */
   [data-theme=light] {
     --cxl2020mc-border-color: #e3e8f7;
-    --cxl2020mc-card-bg: #fff;
+    --cxl2020mc-card-bg: #ffffffa8;
     --cxl2020mc-card-border: #e3e8f7;
     --style-border-always: 1px solid var(--cxl2020mc-card-border);
     --cxl2020mc-blue: #425AEF;
@@ -16,7 +16,7 @@
   /* 深色模式颜色 */
   [data-theme=dark] {
     --cxl2020mc-border-color: #42444a;
-    --cxl2020mc-card-bg: #1d1b26;
+    --cxl2020mc-card-bg: #3a3843cd;
     --cxl2020mc-card-border: #42444a;
     --style-border-always: 1px solid var(--cxl2020mc-card-border);
     --cxl2020mc-blue: #0084FF;

@@ -200,13 +200,6 @@
 
   
   <url>
-    <loc>https://www.ljcgo.com/tags/AIC/</loc>
-    <lastmod>2024-03-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2024-03-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -215,6 +208,13 @@
   
   <url>
     <loc>https://www.ljcgo.com/tags/%E6%9C%AC%E7%A7%91/</loc>
+    <lastmod>2024-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ljcgo.com/tags/Control/</loc>
     <lastmod>2024-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -235,7 +235,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/tags/Control/</loc>
+    <loc>https://www.ljcgo.com/tags/AIC/</loc>
     <lastmod>2024-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -272,14 +272,14 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/</loc>
+    <loc>https://www.ljcgo.com/categories/%E7%BD%91%E7%AB%99/</loc>
     <lastmod>2024-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/categories/%E7%BD%91%E7%AB%99/</loc>
+    <loc>https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/</loc>
     <lastmod>2024-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
