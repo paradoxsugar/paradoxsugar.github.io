@@ -95,12 +95,6 @@
   margin-right: auto;
 }
 
-/* PC菜单栏美化 */ 
-#nav .menus_items .menus_item .menus_item_child, #nav .menus_items .icat_menus_item .menus_item_child {
-  margin-top: 10px;
-  border: 1px solid var(--icat-secondbg);
-}
-
 /* 子菜单横向 */
 /* .menus_item_child li:not(#sidebar-menus li){
   float: left;
@@ -116,18 +110,33 @@ left:50%;
 translate:-50%;
 } */
 
+/* PC菜单栏美化 */ 
+#nav .menus_items .menus_item .menus_item_child, #nav .menus_items .icat_menus_item .menus_item_child {
+  margin-top: 10px;
+  border: 1px solid var(--icat-secondbg);
+}
+
+#nav .menus_items .menus_item .menus_item_child li a, #nav .menus_items .icat_menus_item .menus_item_child li a {
+  /* padding: 8px; */
+  text-align: center;
+}
+
 /* 这里的4是代表导航栏的第4个元素，即有子菜单的元素，可以按自己需求修改 */
 .menus_items .menus_item:nth-child(1) .menus_item_child {
-  left: -7.5px;
+  padding: 1px;
+  left: -10px;
 }
 .menus_items .menus_item:nth-child(2) .menus_item_child {
+  padding: 15px;
   left: 0px;
 }
 .menus_items .menus_item:nth-child(3) .menus_item_child {
+  padding: 15px;
   left: 0px;
 }
 .menus_items .menus_item:nth-child(4) .menus_item_child {
-  left: -2px;
+  padding: 15px;
+  left: 1px;
 }
 
 #travellings {
