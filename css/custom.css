@@ -100,26 +100,39 @@
   margin-top: 10px;
   border: 1px solid var(--icat-secondbg);
 }
+
 /* 子菜单横向 */
-/* #nav .menus_items .menus_item:hover .menus_item_child{
-  display: flex;
+/* .menus_item_child li:not(#sidebar-menus li){
+  float: left;
+  border-radius: 6px!important;
+  -webkit-border-radius: 6px!important;
+  -moz-border-radius: 6px!important;
+  -ms-border-radius: 6px!important;
+  -o-border-radius: 6px!important;
+}
+.menus_item_child:not(#sidebar-menus ul){
+/*  left:calc(-150%)!important;这是估算值，为了保持元素居中的，如果不合适可以自己调
+left:50%;
+translate:-50%;
 } */
+
 /* 这里的4是代表导航栏的第4个元素，即有子菜单的元素，可以按自己需求修改 */
 .menus_items .menus_item:nth-child(1) .menus_item_child {
-  left: 5px;
+  left: -7.5px;
 }
 .menus_items .menus_item:nth-child(2) .menus_item_child {
-  left: 5px;
+  left: 0px;
 }
 .menus_items .menus_item:nth-child(3) .menus_item_child {
-  left: 5px;
+  left: 0px;
 }
 .menus_items .menus_item:nth-child(4) .menus_item_child {
   left: -2px;
 }
+
 #travellings {
   padding: 0 14px 0 0;
-}
+} 
 
 /* IPAD菜单栏调整 */
 #nav #menus {
