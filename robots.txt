@@ -2,6 +2,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ljcgo.com/sitemap.xml
-Sitemap: https://www.ljcgo.com/baidusitemap.xml
+Sitemap: https://blog.ljcgo.com/sitemap.xml
+Sitemap: https://blog.ljcgo.com/baidusitemap.xml
 
