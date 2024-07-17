@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.ljcgo.com/posts/3/</loc>
+    <loc>https://blog.ljcgo.com/gallery/test/index.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ljcgo.com/posts/97/</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ljcgo.com/posts/3/</loc>
     
     <lastmod>2024-02-15</lastmod>
     
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/posts/95/</loc>
+    <loc>https://blog.ljcgo.com/posts/95/</loc>
     
     <lastmod>2024-01-14</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/charts/index.html</loc>
+    <loc>https://blog.ljcgo.com/charts/index.html</loc>
     
     <lastmod>2023-12-13</lastmod>
     
@@ -29,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/posts/97/</loc>
+    <loc>https://blog.ljcgo.com/posts/2/</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -38,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/posts/2/</loc>
+    <loc>https://blog.ljcgo.com/posts/1/</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -47,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/posts/1/</loc>
+    <loc>https://blog.ljcgo.com/posts/4/</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -56,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/posts/4/</loc>
+    <loc>https://blog.ljcgo.com/posts/96/</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -65,16 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/posts/96/</loc>
-    
-    <lastmod>2023-12-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ljcgo.com/posts/99/</loc>
+    <loc>https://blog.ljcgo.com/posts/99/</loc>
     
     <lastmod>2023-12-08</lastmod>
     
@@ -83,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/posts/98/</loc>
+    <loc>https://blog.ljcgo.com/posts/98/</loc>
     
     <lastmod>2023-12-08</lastmod>
     
@@ -92,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/gallery/index.html</loc>
+    <loc>https://blog.ljcgo.com/gallery/index.html</loc>
     
     <lastmod>2023-11-15</lastmod>
     
@@ -101,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/essay/index.html</loc>
+    <loc>https://blog.ljcgo.com/essay/index.html</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -110,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/monument/index.html</loc>
+    <loc>https://blog.ljcgo.com/monument/index.html</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -119,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/about/index.html</loc>
+    <loc>https://blog.ljcgo.com/about/index.html</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -128,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/comments/index.html</loc>
+    <loc>https://blog.ljcgo.com/comments/index.html</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -137,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/img/pwa/manifest.json</loc>
+    <loc>https://blog.ljcgo.com/img/pwa/manifest.json</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -146,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/img/pwa/README.html</loc>
+    <loc>https://blog.ljcgo.com/img/pwa/README.html</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -155,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/project/index.html</loc>
+    <loc>https://blog.ljcgo.com/project/index.html</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -164,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/tags/index.html</loc>
+    <loc>https://blog.ljcgo.com/tags/index.html</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -173,18 +182,9 @@
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/categories/index.html</loc>
+    <loc>https://blog.ljcgo.com/categories/index.html</loc>
     
     <lastmod>2023-10-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.ljcgo.com/gallery/test/index.html</loc>
-    
-    <lastmod>2023-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -192,65 +192,72 @@
   
 
   <url>
-    <loc>https://www.ljcgo.com/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.ljcgo.com/tags/AIC/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/tags/AIC/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/tags/%E6%9C%AC%E7%A7%91/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/tags/%E6%9C%AC%E7%A7%91/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/tags/Control/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/tags/%E7%94%B5%E8%84%91/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/tags/%E6%9D%82%E8%AE%B0/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/tags/Control/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/tags/%E7%94%B5%E8%84%91/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/tags/PLL/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/tags/PLL/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2024-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ljcgo.com/tags/security/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -258,29 +265,29 @@
 
   
   <url>
-    <loc>https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/categories/%E7%94%B5%E8%84%91/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/categories/%E7%94%B5%E8%84%91/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/categories/%E7%AC%94%E8%AE%B0/%E6%9C%AC%E7%A7%91/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ljcgo.com/categories/%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2024-07-16</lastmod>
+    <loc>https://blog.ljcgo.com/categories/%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2024-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
