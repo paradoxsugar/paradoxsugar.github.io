@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.ljcgo.com/posts/96/</loc>
+    <lastmod>2024-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.ljcgo.com/posts/97/</loc>
+    <lastmod>2024-07-18</lastmod>
+  </url>
+  <url>
     <loc>https://blog.ljcgo.com/posts/98/</loc>
     <lastmod>2024-07-17</lastmod>
   </url>
   <url>
     <loc>https://blog.ljcgo.com/posts/99/</loc>
-    <lastmod>2024-07-17</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.ljcgo.com/posts/97/</loc>
     <lastmod>2024-07-17</lastmod>
   </url>
   <url>
@@ -30,10 +34,6 @@
   </url>
   <url>
     <loc>https://blog.ljcgo.com/posts/4/</loc>
-    <lastmod>2023-12-09</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.ljcgo.com/posts/96/</loc>
     <lastmod>2023-12-09</lastmod>
   </url>
 </urlset> 
