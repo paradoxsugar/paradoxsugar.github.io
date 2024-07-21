@@ -813,3 +813,21 @@ div#page {
   display: none;
 } */
 
+.hbe-submit-button {
+  background-color: #4CAF50; /* 绿色背景 */
+  border: none; /* 无边框 */
+  color: white; /* 白色文字 */
+  padding: 15px; /* 内边距 */
+  text-align: center; /* 文字居中 */
+  text-decoration: none; /* 无下划线 */
+  display: inline-block; /* 行内块元素 */
+  font-size: 16px; /* 字体大小 */
+  margin: 4px 2px; /* 外边距 */
+  cursor: pointer; /* 鼠标指针 */
+  border-radius: 12px; /* 圆角 */
+  transition-duration: 0.4s; /* 过渡效果 */
+}
+
+.hbe-submit-button:hover {
+  background-color: #2731ea; /* 悬停时的背景颜色 */
+}
